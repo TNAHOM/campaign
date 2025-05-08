@@ -1,8 +1,8 @@
-# 🚀 Campaign Messaging Platform
+# Campaign Messaging Platform
 
 Welcome to a robust, scalable Campaign Messaging Platform designed for reliable delivery. Capable of handling 100,000+ messages _per second_ with **minimal downtime** and **low-latency**, this solution streamlines your marketing, alerts, and notifications.
 
-## 🔥 Why This Project Rocks
+## Why This Project Rocks
 
 - **Massive Throughput**: Push 100k+ messages/sec (and scale further!)
 - **Robust Reliability**: 99.9% uptime with self-healing queues
