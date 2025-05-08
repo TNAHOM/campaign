@@ -12,15 +12,15 @@ Welcome to a robust, scalable Campaign Messaging Platform designed for reliable 
 
 ## 🛠️ Tech Stack & Tools
 
-| Layer        | Tool                      | Hype Meter |
-| ------------ | ------------------------- | ---------- |
-| Backend      | Node.js 20.x & Express.js | 🌩️🌩️🌩️🌩️   |
-| Database ORM | Drizzle ORM               | 🚀🚀🚀🚀   |
-| Queue Engine | BullMQ + Redis            | 🔥🔥🔥🔥   |
-| Storage      | PostgreSQL                | 💾💾💾💾   |
-| Migrations   | Drizzle Migrations        | ✨✨✨✨   |
-| Logging      | morgan + Winston          | 📈📈📈📈   |
-| CI/CD        | GitHub Actions + Docker   | 🐳🐳🐳🐳   |
+| Layer        | Tool                      |
+| ------------ | ------------------------- |
+| Backend      | Node.js 20.x & Express.js |
+| Database ORM | Drizzle ORM               |
+| Queue Engine | BullMQ + Redis            |
+| Storage      | PostgreSQL                |
+| Migrations   | Drizzle Migrations        |
+| Logging      | morgan + Winston          |
+| CI/CD        | GitHub Actions + Docker   |
 
 ## ⚡ Core Features
 
@@ -34,8 +34,8 @@ Welcome to a robust, scalable Campaign Messaging Platform designed for reliable 
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-org/campaign-messaging-platform.git
-   cd campaign-messaging-platform
+   git clone https://github.com/TNAHOM/campaign.git
+   cd campaign
    ```
 2. Install dependencies:
    ```bash
@@ -48,8 +48,13 @@ Welcome to a robust, scalable Campaign Messaging Platform designed for reliable 
    ```
 5. Launch in fast mode:
    ```bash
-   npm run start
+   npm run dev
    ```
+   to run the webhook
+   ```bash
+    npm run webhook
+   ```
+   This command will start the webhook service for real-time message processing.
 
 ## 💡 Tips & Tricks
 
