@@ -20,7 +20,6 @@ Welcome to a robust, scalable Campaign Messaging Platform designed for reliable 
 | Storage      | PostgreSQL                |
 | Migrations   | Drizzle Migrations        |
 | Logging      | morgan + Winston          |
-| CI/CD        | GitHub Actions + Docker   |
 
 ## ⚡ Core Features
 
