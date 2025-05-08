@@ -1,0 +1,1631 @@
+[32m2025-05-06T14:21:39.376Z [info]: POST /campaigns/start 200 62 - 93.140 ms[39m
+[32m2025-05-06T14:21:45.798Z [info]: Updated status for transaction 7fe83456-5df9-4dfc-93a3-3bd98aa5e80c[39m
+[32m2025-05-06T14:21:45.907Z [info]: Updated status for transaction 5ba9dbe5-ebe0-4730-840c-44feebbf3ac9[39m
+[32m2025-05-06T14:21:45.985Z [info]: Updated status for transaction 5614196b-8998-4605-8f22-3c5fcc1bb6bc[39m
+[32m2025-05-06T14:21:46.112Z [info]: Updated status for transaction f455be97-a5a9-4637-b390-467dfcb7bc58[39m
+[32m2025-05-06T14:21:46.205Z [info]: Updated status for transaction 478d771c-85e7-4c11-a34a-c0488d3d82ae[39m
+[32m2025-05-06T14:21:46.352Z [info]: Updated status for transaction 749afe47-4875-4f9f-bf2f-9e58c69f264f[39m
+[32m2025-05-06T14:21:46.462Z [info]: Updated status for transaction ef4f096e-632e-4ddd-909a-76ad49256da9[39m
+[32m2025-05-06T14:21:46.584Z [info]: Updated status for transaction 160d2f38-109f-4eea-9cab-fce9fbae4f5f[39m
+[32m2025-05-06T14:21:46.690Z [info]: Updated status for transaction fcd30507-7531-439a-9cf5-907cb65ae8f8[39m
+[32m2025-05-06T14:21:46.788Z [info]: Updated status for transaction 0a69d64b-e05d-454b-8ad6-0d97e7390b17[39m
+[32m2025-05-06T14:21:46.872Z [info]: Updated status for transaction 3d5ced91-16a2-4942-93a2-e48954534387[39m
+[32m2025-05-06T14:21:47.182Z [info]: Updated status for transaction 59c5249c-501d-43bd-bd2f-ec45b8db1a74[39m
+[32m2025-05-06T14:21:47.673Z [info]: Updated status for transaction 6eae395d-53d4-4463-ab27-6192ee07327a[39m
+[32m2025-05-06T14:21:47.885Z [info]: Updated status for transaction 90f5ed11-8718-4e49-8a05-763103f62297[39m
+[32m2025-05-06T14:21:48.201Z [info]: Updated status for transaction f6ea3109-821f-4c7d-8a86-361a5b2b95e1[39m
+[32m2025-05-06T14:21:48.842Z [info]: Updated status for transaction c3c93ab4-f749-4521-9151-e4bde0c28f0e[39m
+[32m2025-05-06T14:21:48.936Z [info]: Updated status for transaction d0acff99-7efe-4faa-a96e-e3e5f6862092[39m
+[32m2025-05-06T14:21:49.299Z [info]: Updated status for transaction bab17203-7e3e-4a59-a66a-eb5c5b5e52a3[39m
+[32m2025-05-06T14:21:49.406Z [info]: Updated status for transaction 88ee53bc-da10-424e-b996-094d5beaf460[39m
+[32m2025-05-06T14:21:49.500Z [info]: Updated status for transaction ddaa4f88-a501-4922-9d64-8ea99c4d731b[39m
+[32m2025-05-06T14:22:54.545Z [info]: Updated status for transaction dfce0950-47ff-443d-9842-22c471a6b2c2[39m
+[32m2025-05-06T14:22:54.973Z [info]: Updated status for transaction d3fe2e6a-f2c1-47c6-8d0c-a6eb634ab14c[39m
+[32m2025-05-06T14:22:55.266Z [info]: Updated status for transaction ccfb750e-8d1e-4970-991c-e6a4b2faa6cf[39m
+[32m2025-05-06T14:22:55.604Z [info]: Updated status for transaction b91ed12f-578f-4e1b-8031-a6cad0bfbe9b[39m
+[32m2025-05-06T14:22:56.851Z [info]: Updated status for transaction 37afb351-9a91-4a66-ad18-0888bc040625[39m
+[32m2025-05-06T14:22:57.728Z [info]: Updated status for transaction 4a64d5d7-252f-4bc4-88e2-d12445a396db[39m
+[32m2025-05-06T14:22:57.905Z [info]: Updated status for transaction 1e836e26-059b-4de2-8206-a2091b3e6b39[39m
+[32m2025-05-06T14:22:58.017Z [info]: Updated status for transaction 21a384c5-eef6-4a3c-84f0-2c3e40bc456e[39m
+[32m2025-05-06T14:22:58.367Z [info]: Updated status for transaction 001437bf-c5cb-446a-b7f7-dfad7c758874[39m
+[32m2025-05-06T14:22:58.738Z [info]: Updated status for transaction 99c61829-44d0-4158-a794-d553135f1427[39m
+[32m2025-05-06T14:22:58.957Z [info]: Updated status for transaction d15790ba-b296-40da-8bbc-2707fe8c82b4[39m
+[32m2025-05-06T14:22:59.036Z [info]: Updated status for transaction 7a95fed6-3756-490d-94b1-813048755608[39m
+[32m2025-05-06T14:22:59.131Z [info]: Updated status for transaction 85d13f6e-2729-4c40-bcb7-6af6cf0e3bc1[39m
+[32m2025-05-06T14:22:59.602Z [info]: Updated status for transaction 84d0264a-4c70-452f-8d67-4ade5febd747[39m
+[32m2025-05-06T14:23:00.843Z [info]: Updated status for transaction 1df26045-d57c-4c62-8185-cb1ef8e5be4c[39m
+[32m2025-05-06T14:23:04.157Z [info]: Updated status for transaction 6ad28c3c-8c77-4657-ae38-0be43b5f8a97[39m
+[32m2025-05-06T14:23:05.070Z [info]: Updated status for transaction 90c94a74-891d-4d42-847b-0550c14c22df[39m
+[32m2025-05-06T14:23:05.809Z [info]: Updated status for transaction 89def1f5-8e8a-49bb-b5d9-4f45c9e4da6b[39m
+[32m2025-05-06T14:23:07.467Z [info]: Updated status for transaction a701f31d-42e5-472b-91d1-0601b7d05001[39m
+[32m2025-05-06T14:23:09.723Z [info]: Updated status for transaction 791e518c-9aea-4e03-af58-b22fbb8ab89e[39m
+[31m2025-05-06T14:43:16.662Z [error]: Webhook failed: campaign_start[39m
+[32m2025-05-06T14:43:16.676Z [info]: POST /campaigns/start 200 62 - 324.658 ms[39m
+[31m2025-05-06T14:43:16.692Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:43:16.710Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:43:16.723Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:43:17.750Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:43:17.772Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:43:17.789Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:43:17.812Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:43:19.873Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:43:19.900Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:43:19.923Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:43:19.942Z [error]: Webhook failed: campaign_completed[39m
+[32m2025-05-06T14:43:23.764Z [info]: Updated status for transaction 1b8a1c9c-32ad-4188-ac16-6dcc3c3b66c2[39m
+[32m2025-05-06T14:43:23.987Z [info]: Updated status for transaction dbd0e41b-8b73-418b-bbd6-5ebdada20960[39m
+[32m2025-05-06T14:43:24.087Z [info]: Updated status for transaction 29225e9a-867b-4bc6-bfe0-36b8fccf969b[39m
+[32m2025-05-06T14:43:24.159Z [info]: Updated status for transaction c09ffb91-21c8-4518-a76e-a47268d104e5[39m
+[32m2025-05-06T14:43:24.280Z [info]: Updated status for transaction dd4a9ba8-bb65-4597-84d5-6182c2a1ab67[39m
+[32m2025-05-06T14:43:24.381Z [info]: Updated status for transaction e5e44afe-a009-481e-bd50-86b4aa523b8c[39m
+[31m2025-05-06T14:51:18.971Z [error]: Webhook failed: campaign_start[39m
+[32m2025-05-06T14:51:19.206Z [info]: POST /campaigns/start 200 62 - 430.995 ms[39m
+[31m2025-05-06T14:51:19.222Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:51:19.246Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:51:19.306Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:51:20.156Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:51:20.249Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:51:20.349Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:51:20.367Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:51:22.262Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:51:22.268Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:51:22.380Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:51:22.402Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:53:17.659Z [error]: Webhook failed: campaign_start[39m
+[32m2025-05-06T14:53:17.688Z [info]: POST /campaigns/start 200 62 - 85.897 ms[39m
+[31m2025-05-06T14:53:17.707Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:53:17.730Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:53:17.745Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:53:18.769Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:53:18.823Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:53:18.858Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:53:18.875Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:53:20.883Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:53:20.907Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:53:20.919Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:53:20.932Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:55:28.306Z [error]: Webhook failed: campaign_start[39m
+[32m2025-05-06T14:55:28.341Z [info]: POST /campaigns/start 200 62 - 81.517 ms[39m
+[31m2025-05-06T14:55:28.354Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:55:28.376Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:55:28.397Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:55:29.361Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:55:29.370Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:55:29.386Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:55:29.479Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-06T14:55:31.387Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-06T14:55:31.396Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:55:31.402Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-06T14:55:31.594Z [error]: Webhook failed: campaign_completed[39m
+[32m2025-05-06T14:55:50.910Z [info]: POST /campaigns/start 200 62 - 119.895 ms[39m
+[32m2025-05-06T14:55:50.933Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-06T14:55:50.967Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-06T14:55:50.983Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-06T14:55:50.997Z [info]: Webhook sent: campaign_completed[39m
+[31m2025-05-06T14:56:11.320Z [error]: Job 15 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-06T14:56:20.044Z [error]: Job 11 failed: job stalled more than allowable limit[39m
+[31m2025-05-06T14:56:20.049Z [error]: Job 12 failed: job stalled more than allowable limit[39m
+[31m2025-05-06T14:56:20.055Z [error]: Job 13 failed: job stalled more than allowable limit[39m
+[31m2025-05-06T14:56:32.489Z [error]: Job 16 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-06T14:56:53.728Z [error]: Job 17 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-06T14:59:39.430Z [error]: Job 16 failed: read ECONNRESET[39m
+[31m2025-05-06T14:59:39.861Z [error]: Job 14 failed: job stalled more than allowable limit[39m
+[31m2025-05-06T14:59:40.058Z [error]: Job 19 failed: read ECONNRESET[39m
+[31m2025-05-06T15:00:22.635Z [error]: Job 20 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[32m2025-05-06T15:00:29.407Z [info]: Updated status for transaction cf2e3a23-54b5-463c-9689-ff0b341e1dfe[39m
+[32m2025-05-06T15:00:29.781Z [info]: Updated status for transaction ba04457c-a13f-4437-8e8e-7d3a33d10e63[39m
+[32m2025-05-06T15:00:29.872Z [info]: Updated status for transaction 3f682033-1478-4050-bd79-595173f113f1[39m
+[32m2025-05-06T15:00:29.992Z [info]: Updated status for transaction e0a49945-8c21-413d-9365-27d111032049[39m
+[32m2025-05-06T15:00:30.117Z [info]: Updated status for transaction c6e6990c-1573-40e5-940f-49a43c0d3e5f[39m
+[32m2025-05-06T15:00:30.454Z [info]: Updated status for transaction aa5f1c74-6d05-4960-bda2-363f5b83b75e[39m
+[32m2025-05-06T15:00:30.547Z [info]: Updated status for transaction e0a350a3-1d71-4655-b94a-b4ce808dacae[39m
+[32m2025-05-06T15:00:30.630Z [info]: Updated status for transaction 83246bc6-90d3-4602-a6cf-794d580486b6[39m
+[32m2025-05-06T15:00:30.747Z [info]: Updated status for transaction 7769cbc5-6966-4dec-9770-892b08246a31[39m
+[32m2025-05-06T15:00:30.826Z [info]: Updated status for transaction 2541c129-c31d-4625-8db1-cdec0dea22f8[39m
+[32m2025-05-06T15:00:30.952Z [info]: Updated status for transaction 7082df3c-d8a9-4371-8333-b59be8a56570[39m
+[32m2025-05-06T15:00:31.107Z [info]: Updated status for transaction 59a71e78-4a51-4ea1-b87a-f9718701f508[39m
+[32m2025-05-06T15:00:31.232Z [info]: Updated status for transaction 7e8fd3b1-0ae6-4a6c-8893-3b035b046783[39m
+[32m2025-05-06T15:00:31.344Z [info]: Updated status for transaction ccc5c6fc-51ca-43da-b7bf-4cb05a6cb83b[39m
+[32m2025-05-06T15:00:31.702Z [info]: Updated status for transaction 51b8606d-58c4-4a7e-acd2-8b230688f53b[39m
+[32m2025-05-06T15:00:31.883Z [info]: Updated status for transaction 36cf2166-1d91-4027-9b9b-220a4b10ce86[39m
+[32m2025-05-06T15:00:32.046Z [info]: Updated status for transaction e55f4377-c072-4757-9612-897a76dfba1c[39m
+[32m2025-05-06T15:00:32.358Z [info]: Updated status for transaction 8aa5e1c2-d784-4255-9b47-f780e689ccbb[39m
+[32m2025-05-06T15:00:32.600Z [info]: Updated status for transaction 956fc709-bf0e-47da-9fea-ac41745e5be4[39m
+[32m2025-05-06T15:00:32.771Z [info]: Updated status for transaction 804b7da7-64f2-4d34-aebb-66709a0682fb[39m
+[32m2025-05-06T15:00:32.867Z [info]: Updated status for transaction e85d8237-8d55-4c21-adca-f783ff12d51f[39m
+[32m2025-05-06T15:00:33.031Z [info]: Updated status for transaction 33a5c0f5-5487-462b-8cc4-61c8677076b0[39m
+[32m2025-05-06T15:00:33.157Z [info]: Updated status for transaction d75357fd-abd9-4451-8a5e-58796b10b075[39m
+[32m2025-05-06T15:00:33.287Z [info]: Updated status for transaction 53f957db-6a6a-4870-bd3a-20d2ecccdc1d[39m
+[32m2025-05-06T15:00:33.601Z [info]: Updated status for transaction 2ead4bf3-346c-44f8-9d42-175cfee07890[39m
+[32m2025-05-06T15:00:33.696Z [info]: Updated status for transaction eb377f43-557d-4d8d-a2b1-6b078943ed3e[39m
+[32m2025-05-06T15:00:33.823Z [info]: Updated status for transaction c903a5f1-db75-4b16-b73f-7d278fece310[39m
+[32m2025-05-06T15:00:33.930Z [info]: Updated status for transaction 79f70a8f-bcab-415f-b239-c6e63d97c100[39m
+[32m2025-05-06T15:00:34.080Z [info]: Updated status for transaction 151b5be8-3fa2-4fb3-a3ba-5da66fc8c83a[39m
+[32m2025-05-06T15:00:34.164Z [info]: Updated status for transaction 635e8d42-20b9-42db-93e5-b5c3105257d5[39m
+[32m2025-05-06T15:00:34.321Z [info]: Updated status for transaction 719fd008-875e-4447-9e0e-9c3d30803fe3[39m
+[32m2025-05-06T15:00:34.435Z [info]: Updated status for transaction 7a22d715-3479-49e2-81a2-d7a4acb18e05[39m
+[32m2025-05-06T15:00:34.523Z [info]: Updated status for transaction 50298c84-99af-480f-81b1-58fa53abf664[39m
+[32m2025-05-06T15:00:34.629Z [info]: Updated status for transaction 16f08a42-f4ae-4025-95e4-34287a8d04ba[39m
+[32m2025-05-06T15:00:34.907Z [info]: Updated status for transaction 4cc07832-d3e5-4a5a-b307-c6a355eb5cec[39m
+[32m2025-05-06T15:00:35.005Z [info]: Updated status for transaction 165f4775-492b-4581-8d09-52c93f86e431[39m
+[32m2025-05-06T15:00:35.084Z [info]: Updated status for transaction 62f6cab1-2bbd-48b1-94e6-d8c1888f4b47[39m
+[32m2025-05-06T15:00:35.194Z [info]: Updated status for transaction 89caf095-1438-48a4-9359-8927fb7d1655[39m
+[32m2025-05-06T15:00:35.429Z [info]: Updated status for transaction 32c4afa7-a4a0-4e5b-8e18-b61da4db8c88[39m
+[32m2025-05-06T15:00:35.539Z [info]: Updated status for transaction 3ee78309-fccc-4cee-a853-f64d0df3b877[39m
+[32m2025-05-06T15:00:35.672Z [info]: Updated status for transaction 367e48de-3ff9-4d90-b6c1-d1bb8b529629[39m
+[32m2025-05-06T15:00:35.792Z [info]: Updated status for transaction fdfe5f77-646c-4b82-aeea-7b2d61ebd13c[39m
+[32m2025-05-06T15:00:35.881Z [info]: Updated status for transaction 13bcb4e2-3de9-4e8c-9e40-92c071113027[39m
+[32m2025-05-06T15:00:35.985Z [info]: Updated status for transaction 2a631508-780d-4294-8ea8-83823bcde8ce[39m
+[32m2025-05-06T15:00:36.160Z [info]: Updated status for transaction 37f03268-3ff3-4976-8bd1-832de61777b1[39m
+[32m2025-05-06T15:00:36.271Z [info]: Updated status for transaction 911d4dc7-bf1b-4025-a0da-c3dde08fe9a9[39m
+[32m2025-05-06T15:00:36.739Z [info]: Updated status for transaction 107aecae-ea76-4543-af6d-9d1afb181cf6[39m
+[32m2025-05-06T15:00:36.846Z [info]: Updated status for transaction 241a834d-2338-49f4-a22d-5d13078e4cc9[39m
+[32m2025-05-06T15:00:36.952Z [info]: Updated status for transaction ddb53443-8a01-405a-964d-34619df2fe96[39m
+[32m2025-05-06T15:00:37.083Z [info]: Updated status for transaction bc5c4df9-6008-49ca-9902-92aa0e4b1ba9[39m
+[32m2025-05-06T15:00:37.195Z [info]: Updated status for transaction afeaec73-e935-4844-b928-6721b78da509[39m
+[32m2025-05-06T15:00:37.318Z [info]: Updated status for transaction c91a4de5-7b2a-482d-a4fa-f4ce38f70653[39m
+[32m2025-05-06T15:00:37.411Z [info]: Updated status for transaction c8bfbf3c-a1b5-4918-b6a9-c965f50e6d78[39m
+[32m2025-05-06T15:00:37.603Z [info]: Updated status for transaction 0d54df65-c85d-41e9-bd28-843598e1696d[39m
+[32m2025-05-06T15:00:37.710Z [info]: Updated status for transaction b12579df-5b7d-42f4-8a14-14269ae133ba[39m
+[32m2025-05-06T15:00:37.868Z [info]: Updated status for transaction 5bfb0e49-1b7d-43d4-b724-e5d0daed16b3[39m
+[32m2025-05-06T15:00:37.971Z [info]: Updated status for transaction a1fdfa45-ee9a-4038-aac4-c7e12f0a03ed[39m
+[32m2025-05-06T15:00:38.235Z [info]: Updated status for transaction 6c7bf387-b66a-4044-b4c1-dfa2ebcd48e9[39m
+[32m2025-05-06T15:00:38.820Z [info]: Updated status for transaction 83493087-36f6-4cb5-8084-973fd81c1949[39m
+[32m2025-05-06T15:00:38.947Z [info]: Updated status for transaction 7c60f954-1a95-4076-a09e-efe1e67f292e[39m
+[32m2025-05-06T15:00:39.052Z [info]: Updated status for transaction 3b0fb4b2-37e0-4a74-8186-b1d8ea07b56e[39m
+[32m2025-05-06T15:00:39.152Z [info]: Updated status for transaction 33471a85-01ca-4369-ad24-35dcd999e0ef[39m
+[32m2025-05-06T15:00:39.271Z [info]: Updated status for transaction 7607c271-5696-4bbd-a47a-1885b822f769[39m
+[32m2025-05-06T15:00:39.385Z [info]: Updated status for transaction 0fb68fca-ae57-4da9-bad1-b88e2cf36d1f[39m
+[32m2025-05-06T15:00:39.748Z [info]: Updated status for transaction 149fefaf-310e-4bd6-8e82-eb160b2193aa[39m
+[32m2025-05-06T15:00:39.903Z [info]: Updated status for transaction e16fbe37-c076-4650-b58d-5e03fcc0fa07[39m
+[32m2025-05-06T15:00:39.987Z [info]: Updated status for transaction 055d292a-985e-4e72-a9df-3d71aa5d5bbb[39m
+[31m2025-05-06T15:00:40.032Z [error]: Job 15 failed: job stalled more than allowable limit[39m
+[32m2025-05-06T15:00:40.068Z [info]: Updated status for transaction 18aaaa46-4b30-4469-9997-c2e0f8f2f460[39m
+[32m2025-05-06T15:00:40.171Z [info]: Updated status for transaction b953bfa8-97e7-4181-b4e1-a96640f47ce3[39m
+[32m2025-05-06T15:00:40.325Z [info]: Updated status for transaction d2aebbcd-5c58-4228-b4b5-1c32bbc48365[39m
+[32m2025-05-06T15:00:40.577Z [info]: Updated status for transaction 90385888-3913-4217-9aac-780962fd765e[39m
+[32m2025-05-06T15:00:40.721Z [info]: Updated status for transaction e8c06ab7-c9d8-4569-8854-4b54af2c972e[39m
+[32m2025-05-06T15:00:40.844Z [info]: Updated status for transaction 43db462c-49e9-46bb-ac9a-d5d628913421[39m
+[32m2025-05-06T15:00:40.963Z [info]: Updated status for transaction 9364c704-8a25-4d2f-a4a8-0d0d74703720[39m
+[32m2025-05-06T15:00:41.166Z [info]: Updated status for transaction f2fb6ed0-5143-4b88-b4a3-703ef553da68[39m
+[32m2025-05-06T15:00:41.270Z [info]: Updated status for transaction edfb61f8-57cb-43a9-96b6-57c1bdc2d82d[39m
+[32m2025-05-06T15:00:41.370Z [info]: Updated status for transaction 9643ecf7-560d-49ed-844e-3a277133f7df[39m
+[32m2025-05-06T15:00:41.508Z [info]: Updated status for transaction 982786dc-b0bc-4a22-aab8-6b633f72ab95[39m
+[32m2025-05-06T15:00:42.012Z [info]: Updated status for transaction 3b2d7c65-91e9-4b3a-9fb8-ea61c6f64137[39m
+[32m2025-05-06T15:00:42.155Z [info]: Updated status for transaction cab8952a-1c1f-4db6-a44a-1e5e184cdf90[39m
+[32m2025-05-06T15:00:42.240Z [info]: Updated status for transaction 2b945f1a-9a3a-46a0-9d93-9955ab51f85b[39m
+[32m2025-05-06T15:00:42.370Z [info]: Updated status for transaction 145b1406-af55-451b-a51e-c35528663c24[39m
+[32m2025-05-06T15:00:42.488Z [info]: Updated status for transaction 576b4a3a-a38e-4b62-b494-7e2e52d7e1d2[39m
+[32m2025-05-06T15:00:42.588Z [info]: Updated status for transaction ec31cb32-8693-4e95-b7da-6722ba131bb4[39m
+[32m2025-05-06T15:00:42.746Z [info]: Updated status for transaction 20a3f10b-0cf7-4fa7-83d2-53c7c00275ef[39m
+[32m2025-05-06T15:00:42.834Z [info]: Updated status for transaction 7c9ff28e-49af-4744-a02f-e64b9082e7e7[39m
+[32m2025-05-06T15:00:43.126Z [info]: Updated status for transaction 8548ad5b-60b1-4e20-9088-7ba5eecc6af7[39m
+[32m2025-05-06T15:00:43.273Z [info]: Updated status for transaction 25449074-0826-463e-b239-ce2291f952d0[39m
+[32m2025-05-06T15:00:43.456Z [info]: Updated status for transaction 819be9b6-8a44-480a-9048-f2d3d01f1817[39m
+[32m2025-05-06T15:00:43.554Z [info]: Updated status for transaction 6c532741-a703-4af3-9184-1f49dd46958d[39m
+[32m2025-05-06T15:00:43.641Z [info]: Updated status for transaction d9fcb5d6-246b-4505-8ab8-9cde27a095d8[39m
+[32m2025-05-06T15:00:43.723Z [info]: Updated status for transaction 414e5b44-cb6a-49b9-be5e-e082fb9b94a8[39m
+[32m2025-05-06T15:00:43.969Z [info]: Updated status for transaction 7add6226-c956-4e76-872a-3a51c7b27b1b[39m
+[32m2025-05-06T15:00:44.068Z [info]: Updated status for transaction 04c5803e-1357-491c-bfbd-44822298f224[39m
+[32m2025-05-06T15:00:44.160Z [info]: Updated status for transaction ceb170cc-58bf-4409-aaa3-79efcb241fff[39m
+[32m2025-05-06T15:00:44.320Z [info]: Updated status for transaction 74a25c91-641c-477a-a14b-bbe7bd1526f9[39m
+[32m2025-05-06T15:00:44.420Z [info]: Updated status for transaction 11192b56-9454-4a34-b7ec-3156cb0b989b[39m
+[32m2025-05-06T15:00:44.573Z [info]: Updated status for transaction cdf8c9bc-a4e6-4ef1-92b8-3516fdadc9a3[39m
+[32m2025-05-06T15:00:44.764Z [info]: Updated status for transaction 65c4371a-3060-439e-be07-0996c24619b7[39m
+[32m2025-05-06T15:00:44.869Z [info]: Updated status for transaction 4911d080-00a1-4672-be77-4a6cb5de74a1[39m
+[32m2025-05-06T15:33:34.526Z [info]: POST /campaigns/start 200 62 - 225.336 ms[39m
+[32m2025-05-06T15:33:34.550Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-06T15:33:34.575Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-06T15:33:34.591Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-06T15:33:34.600Z [info]: Webhook sent: campaign_completed[39m
+[31m2025-05-06T15:33:55.803Z [error]: Job 21 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[32m2025-05-06T15:34:25.436Z [info]: POST /campaigns/start 200 62 - 146.141 ms[39m
+[32m2025-05-06T15:34:25.445Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-06T15:34:25.460Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-06T15:34:25.470Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-06T15:34:25.485Z [info]: Webhook sent: campaign_completed[39m
+[31m2025-05-06T15:34:46.820Z [error]: Job 23 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-06T15:35:08.082Z [error]: Job 22 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[32m2025-05-06T15:35:17.373Z [info]: Updated status for transaction 67c41b1c-9d71-4148-b3cc-3dbaa142931c[39m
+[32m2025-05-06T15:35:17.997Z [info]: Updated status for transaction 9f44e791-64c3-4814-b7b3-39654e933945[39m
+[32m2025-05-06T15:35:18.588Z [info]: Updated status for transaction d39aa109-15a1-4399-ab9c-432b1e7fecb9[39m
+[32m2025-05-06T15:35:19.326Z [info]: Updated status for transaction 0fa791ca-3a3c-474d-96dc-4271b8519042[39m
+[32m2025-05-06T15:35:19.441Z [info]: Updated status for transaction f4149129-c92f-4473-b0ae-a119bc1d02d5[39m
+[32m2025-05-06T15:35:19.926Z [info]: Updated status for transaction 90bbf091-97ef-4728-bfc7-814713a17293[39m
+[32m2025-05-06T15:35:20.725Z [info]: Updated status for transaction 98a4e191-f94a-44c4-b7bf-958dd5bfd3cc[39m
+[32m2025-05-06T15:35:21.891Z [info]: Updated status for transaction 8ddb1a7f-43b0-4ce8-96e8-e7a0f94727e5[39m
+[32m2025-05-06T15:35:22.757Z [info]: Updated status for transaction ef9bdcc1-59e3-4fa3-9497-cdf27f8a48ce[39m
+[32m2025-05-06T15:35:23.681Z [info]: Updated status for transaction d02e5342-8afe-4f69-9dff-b8543ed0a004[39m
+[32m2025-05-06T15:35:24.371Z [info]: Updated status for transaction e73d819d-6182-4fbe-ac3b-2c568a1c4392[39m
+[32m2025-05-06T15:35:24.996Z [info]: Updated status for transaction 0768b4c8-82cf-49ad-aaa8-aecc5bc30f22[39m
+[32m2025-05-06T15:35:25.435Z [info]: Updated status for transaction 35bdea8c-5bf3-4ac1-b46c-569605bda92e[39m
+[32m2025-05-06T15:35:25.808Z [info]: Updated status for transaction 7f2024ff-30f3-4d4a-9960-3ee0b6a76eec[39m
+[32m2025-05-06T15:35:26.002Z [info]: Updated status for transaction fb78c3b5-0bbb-4fdc-9efd-f3ac7dd92cbf[39m
+[32m2025-05-06T15:35:26.116Z [info]: Updated status for transaction 1477aecd-7d6f-4451-afe4-cd5423b12e08[39m
+[32m2025-05-06T15:35:26.205Z [info]: Updated status for transaction 27494872-daf1-4acb-a233-efaca128655f[39m
+[32m2025-05-06T15:35:26.303Z [info]: Updated status for transaction f7517989-688d-4453-8455-5058c15e736d[39m
+[32m2025-05-06T15:35:26.397Z [info]: Updated status for transaction 7a6c44ea-69b1-4584-be6c-410313091fb7[39m
+[32m2025-05-06T15:35:26.585Z [info]: Updated status for transaction 42888e0d-023d-47af-9c54-93510ddcd478[39m
+[32m2025-05-06T15:35:26.809Z [info]: Updated status for transaction a27f92e3-cd3c-44b6-af7f-3b7d4c1b54ac[39m
+[32m2025-05-06T15:35:26.916Z [info]: Updated status for transaction b94e8678-6024-4f48-a51d-5e8f08337f32[39m
+[32m2025-05-06T15:35:27.035Z [info]: Updated status for transaction fb450f2d-0d0f-47aa-b9ae-308f84d586f8[39m
+[32m2025-05-06T15:35:27.217Z [info]: Updated status for transaction 071bf089-3028-45fb-a007-58bb8890f60e[39m
+[32m2025-05-06T15:35:27.328Z [info]: Updated status for transaction ad96e021-f071-4760-9d96-5bb4ab5dcf7f[39m
+[32m2025-05-06T15:35:27.477Z [info]: Updated status for transaction f95042d2-81b1-4d47-b8d5-315fbb80250a[39m
+[32m2025-05-06T15:35:27.592Z [info]: Updated status for transaction 39d89fac-050e-418b-9a60-5686b226fbc2[39m
+[32m2025-05-06T15:35:27.674Z [info]: Updated status for transaction 85c7620e-4f4e-4679-9e31-cb798c8f1343[39m
+[32m2025-05-06T15:35:27.772Z [info]: Updated status for transaction edfd5478-5885-47fa-bfb5-59ca2f3a6744[39m
+[32m2025-05-06T15:35:27.859Z [info]: Updated status for transaction f1883a05-5f18-49f1-941c-615abbbb6a4e[39m
+[32m2025-05-06T15:35:27.971Z [info]: Updated status for transaction 24033cc9-5c44-4c6a-8bd1-08cb2302e151[39m
+[32m2025-05-06T15:35:28.201Z [info]: Updated status for transaction f2408b33-7bc8-4315-927e-d8fa82247072[39m
+[32m2025-05-06T15:35:28.330Z [info]: Updated status for transaction bd55440e-8b4e-4fba-b25b-015fa7be2bc2[39m
+[32m2025-05-06T15:35:28.449Z [info]: Updated status for transaction c16e92f9-a078-48b5-9080-22d7714f64b6[39m
+[32m2025-05-06T15:35:28.811Z [info]: Updated status for transaction 815367ee-5f92-4f3d-bc97-e79f7db65b6a[39m
+[32m2025-05-06T15:35:28.910Z [info]: Updated status for transaction 68d0d229-6bae-4d70-b3d1-d2322c6ecfef[39m
+[32m2025-05-06T15:35:28.992Z [info]: Updated status for transaction 533e48d4-324b-4a3c-9085-78e2ab534b66[39m
+[32m2025-05-06T15:35:29.133Z [info]: Updated status for transaction 875f7737-1b02-4c80-86e0-4912761d41b8[39m
+[32m2025-05-06T15:35:29.239Z [info]: Updated status for transaction 7bb46eeb-e587-40e3-b0c5-dfc0ec318775[39m
+[32m2025-05-06T15:35:29.456Z [info]: Updated status for transaction 136a8f45-9db3-4204-98b6-ee469d7df8ae[39m
+[32m2025-05-06T15:35:29.564Z [info]: Updated status for transaction e9bb3cb9-00f9-4534-b39f-66ab4f62a125[39m
+[32m2025-05-06T15:35:29.728Z [info]: Updated status for transaction d64f3ebb-cccc-43c4-89dd-dab43d6ad9fc[39m
+[32m2025-05-06T15:35:29.841Z [info]: Updated status for transaction fb97849a-1f1a-47cb-a12d-aed0a65e6324[39m
+[32m2025-05-06T15:35:29.975Z [info]: Updated status for transaction b6a21267-f897-44fb-839b-dd7ea889cfa7[39m
+[32m2025-05-06T15:35:30.090Z [info]: Updated status for transaction f645411a-d3a1-4708-8bbb-d8f2772409b1[39m
+[32m2025-05-06T15:35:30.196Z [info]: Updated status for transaction 653b11fe-b369-4794-8a62-5f09278d2534[39m
+[32m2025-05-06T15:35:30.312Z [info]: Updated status for transaction 9f38fdae-9899-4858-b92c-80418d7dd2b5[39m
+[32m2025-05-06T15:35:30.433Z [info]: Updated status for transaction e13299be-8f7e-4572-9a6f-82c69eaad735[39m
+[32m2025-05-06T15:35:30.685Z [info]: Updated status for transaction fd3fcbaf-83db-405a-8203-5819fdc81c47[39m
+[32m2025-05-06T15:35:30.796Z [info]: Updated status for transaction 750d55ec-d21e-4bae-9a74-e4c6922774d2[39m
+[32m2025-05-06T15:35:30.911Z [info]: Updated status for transaction 82bbce46-3abb-48f4-956c-d51b6032533b[39m
+[32m2025-05-06T15:35:31.262Z [info]: Updated status for transaction be2132f9-79e3-4cf0-b020-70b0169c7a3b[39m
+[32m2025-05-06T15:35:31.354Z [info]: Updated status for transaction 60df27ad-2366-4814-bec9-cf118ab883a0[39m
+[32m2025-05-06T15:35:31.630Z [info]: Updated status for transaction 4b2b7b11-a1b7-48a5-ab71-b5883c39b488[39m
+[32m2025-05-06T15:35:31.714Z [info]: Updated status for transaction 5d214b4b-a8cc-466b-8f25-116bb8ae07cd[39m
+[32m2025-05-06T15:35:31.832Z [info]: Updated status for transaction 0ea08872-afe6-4c73-9c06-b31fc13a7904[39m
+[32m2025-05-06T15:35:32.009Z [info]: Updated status for transaction e7a36fa9-5c81-4aca-aa19-e4f34f5b7c4a[39m
+[32m2025-05-06T15:35:32.291Z [info]: Updated status for transaction e1aac606-bba8-48d5-becf-1399ee0642b6[39m
+[32m2025-05-06T15:35:32.433Z [info]: Updated status for transaction 87f7f8c0-7bbb-4563-bbd7-72d02527e104[39m
+[32m2025-05-06T15:35:32.522Z [info]: Updated status for transaction ab24de01-bbd8-4b96-9a5a-3fdd2d4f9a9f[39m
+[32m2025-05-06T15:35:32.620Z [info]: Updated status for transaction e8467662-23d1-41a8-8da8-b71d8ca128ef[39m
+[32m2025-05-06T15:35:32.717Z [info]: Updated status for transaction 2c1ee310-6da8-49b3-956e-3157fea5feee[39m
+[32m2025-05-06T15:35:32.799Z [info]: Updated status for transaction d5156a5f-f70e-4428-a491-12a3695da3d5[39m
+[32m2025-05-06T15:35:32.889Z [info]: Updated status for transaction 09575acc-4d64-45ae-9593-6210d4a9a9ed[39m
+[32m2025-05-06T15:35:33.001Z [info]: Updated status for transaction 92c9e455-b192-426e-83ef-66a5d8723d2f[39m
+[32m2025-05-06T15:35:33.089Z [info]: Updated status for transaction f7c37281-e423-4979-abdb-2de3cfd3d63c[39m
+[32m2025-05-06T15:35:33.353Z [info]: Updated status for transaction 62c25cd0-7f1a-4bb4-88cc-8d5e4c77ba16[39m
+[32m2025-05-06T15:35:33.449Z [info]: Updated status for transaction 1df77388-fb46-4b66-b3e9-79f07d8638fa[39m
+[32m2025-05-06T15:35:33.558Z [info]: Updated status for transaction 34c799c3-bd90-4f81-8eaa-db2509254b8e[39m
+[32m2025-05-06T15:35:33.750Z [info]: Updated status for transaction e6b71914-2a30-4656-9188-0b7f17f1362d[39m
+[32m2025-05-06T15:35:33.837Z [info]: Updated status for transaction c7fd9d66-0f4f-4427-addd-b748d5a9dd9b[39m
+[32m2025-05-06T15:35:33.920Z [info]: Updated status for transaction b1948819-52ad-4665-b9f8-3918d3ddff17[39m
+[32m2025-05-06T15:35:34.118Z [info]: Updated status for transaction 621ac4e7-863d-4b55-80fd-1d83ea632ceb[39m
+[32m2025-05-06T15:35:34.208Z [info]: Updated status for transaction a8203530-d14f-4d55-b28f-9b03279fae20[39m
+[32m2025-05-06T15:35:34.308Z [info]: Updated status for transaction 827d361e-5e36-4814-a5e3-bde10a5b8e87[39m
+[32m2025-05-06T15:35:34.405Z [info]: Updated status for transaction c81421ad-12a9-4698-b2f6-0b2673511a91[39m
+[32m2025-05-06T15:35:34.563Z [info]: Updated status for transaction a8ab6e86-7646-4f2d-92db-27838f802c75[39m
+[32m2025-05-06T15:35:34.790Z [info]: Updated status for transaction e7493d63-6e96-4c61-92d3-edceedafcf25[39m
+[32m2025-05-06T15:35:34.878Z [info]: Updated status for transaction 3757d200-69c9-4c36-8c3d-29a4874a40bf[39m
+[32m2025-05-06T15:35:34.961Z [info]: Updated status for transaction 5552740d-e3f6-4786-8e44-9916704c2a1f[39m
+[31m2025-05-07T20:51:45.629Z [error]: Webhook failed: campaign_start[39m
+[32m2025-05-07T20:51:45.647Z [info]: POST /campaigns/start 200 62 - 735.205 ms[39m
+[31m2025-05-07T20:51:45.815Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-07T20:51:45.831Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-07T20:51:45.844Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-07T20:51:46.749Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-07T20:51:46.862Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-07T20:51:46.902Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-07T20:51:46.946Z [error]: Webhook failed: campaign_completed[39m
+[31m2025-05-07T20:51:48.793Z [error]: Webhook failed: campaign_start[39m
+[31m2025-05-07T20:51:48.995Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-07T20:51:49.025Z [error]: Webhook failed: batch_sent[39m
+[31m2025-05-07T20:51:49.050Z [error]: Webhook failed: campaign_completed[39m
+[32m2025-05-07T20:57:29.037Z [info]: POST /campaigns/start 200 62 - 362.336 ms[39m
+[32m2025-05-07T20:57:29.111Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-07T20:57:29.129Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T20:57:29.149Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T20:57:29.183Z [info]: Webhook sent: campaign_completed[39m
+[32m2025-05-07T21:07:23.891Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-07T21:07:24.046Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.059Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.073Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.086Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.100Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.114Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.130Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.142Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.157Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.167Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.177Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.191Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.199Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.211Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.220Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.232Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.240Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.252Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.264Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.274Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.283Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.295Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.303Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.313Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.323Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.335Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.346Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.357Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.366Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.377Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.392Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.401Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.412Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.422Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.435Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.448Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.461Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.470Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.482Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.496Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.581Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.596Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.603Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.636Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.650Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.660Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.669Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.680Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.690Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.700Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.710Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.719Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.729Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.740Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.752Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.765Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.777Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.786Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.798Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.807Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.819Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.832Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.843Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.853Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.866Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.879Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.892Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.912Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.932Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.944Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.950Z [info]: POST /campaigns/start 200 66 - 1208.645 ms[39m
+[32m2025-05-07T21:07:24.961Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.973Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.984Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:24.997Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.008Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.016Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.026Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.036Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.045Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.051Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.057Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.065Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.073Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.081Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.087Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.094Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.101Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.106Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.114Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.121Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.129Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.135Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.141Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.149Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.158Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.166Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.174Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.187Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.201Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.213Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.223Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.233Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.243Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.256Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.267Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.277Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.289Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.298Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.308Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.317Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.326Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.334Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.345Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.352Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.360Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.368Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.378Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.384Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.393Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.400Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.409Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.417Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.427Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.436Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.448Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.464Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.485Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.579Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.590Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-07T21:07:25.607Z [info]: Webhook sent: campaign_completed[39m
+[31m2025-05-07T21:07:45.019Z [error]: Job 29 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:08:07.127Z [error]: Job 29 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:08:30.471Z [error]: Job 29 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:08:51.607Z [error]: Job 30 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:09:13.741Z [error]: Job 30 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:09:36.984Z [error]: Job 30 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:09:58.162Z [error]: Job 31 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:10:45.284Z [error]: Job 32 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:11:07.479Z [error]: Job 32 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:11:38.024Z [error]: Job 31 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:11:59.138Z [error]: Job 33 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:12:20.249Z [error]: Job 32 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:12:41.363Z [error]: Job 31 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:13:02.459Z [error]: Job 33 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:13:23.553Z [error]: Job 34 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:13:57.789Z [error]: Job 35 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:14:03.742Z [error]: Job 34 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:14:24.847Z [error]: Job 35 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:14:45.972Z [error]: Job 34 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:15:07.088Z [error]: Job 33 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:15:28.208Z [error]: Job 36 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:15:49.341Z [error]: Job 35 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:16:10.459Z [error]: Job 37 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:16:31.597Z [error]: Job 36 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:16:52.695Z [error]: Job 37 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:17:13.823Z [error]: Job 38 failed: connect ETIMEDOUT 172.28.17.17:8000[39m
+[31m2025-05-07T21:18:45.217Z [error]: Job 430dc7a1-c63f-4259-9ecb-149f91b04b01 failed:[39m
+[31m2025-05-07T21:19:08.180Z [error]: Job fee1d8fe-e3e5-4091-b8a9-bba7116a53bb failed:[39m
+[31m2025-05-07T21:19:29.279Z [error]: Job d8fbad48-b2cb-41a8-b7ca-fd449b5e1582 failed:[39m
+[31m2025-05-07T21:19:50.397Z [error]: Job 87187620-7bd9-40ab-905d-09d23adf962f failed:[39m
+[31m2025-05-07T21:20:11.514Z [error]: Job b33fc9df-9513-4fc1-af51-2527307d6349 failed:[39m
+[31m2025-05-07T21:20:32.627Z [error]: Job 803dfbf8-6a57-4f53-945a-c666a2d9628e failed:[39m
+[31m2025-05-07T21:20:53.837Z [error]: Job d4ee2456-c265-4015-b142-77c6a08cd1d3 failed:[39m
+[31m2025-05-07T21:21:45.333Z [error]: Job 029751e2-4956-43ba-855d-0b1d1a271471 failed:[39m
+[31m2025-05-07T21:22:45.352Z [error]: Job 2269f555-75ab-45c5-aba5-e64001a186cc failed:[39m
+[31m2025-05-07T21:23:45.203Z [error]: Job c178a000-a038-4bf8-9a86-5b6116af9791 failed:[39m
+[31m2025-05-07T21:24:45.218Z [error]: Job a1796a17-4db3-44b9-a408-670072beff35 failed:[39m
+[31m2025-05-07T21:25:45.180Z [error]: Job 7e5fc563-f5c5-4a16-912f-314168108350 failed:[39m
+[31m2025-05-07T21:26:45.232Z [error]: Job fcf38a20-6a2a-4ef4-9d87-4c6f44e65aab failed:[39m
+[31m2025-05-07T21:27:45.192Z [error]: Job a3e8eb1a-691c-453b-a3d5-8629821c4197 failed:[39m
+[31m2025-05-07T21:28:45.358Z [error]: Job 7d9cda61-17a3-4602-ae7a-913825b3056a failed:[39m
+[31m2025-05-07T21:29:45.274Z [error]: Job 8d668b39-3064-4bf6-a33d-c69491068f3a failed:[39m
+[31m2025-05-07T21:30:45.235Z [error]: Job d0eae3da-ee31-4153-8fe1-9f044e0d65bf failed:[39m
+[31m2025-05-07T21:31:45.239Z [error]: Job e8adfeda-c7dd-4bf0-afa4-51c01509e59b failed:[39m
+[31m2025-05-07T21:32:45.371Z [error]: Job 33a3aa98-98fe-4a21-881f-493b18eb27b0 failed:[39m
+[31m2025-05-07T21:33:45.383Z [error]: Job cac3a50a-26cc-4d1c-8c0d-8399ee033b90 failed:[39m
+[31m2025-05-07T21:35:20.880Z [error]: Job 0587a688-b28d-4b1a-8e04-68d860702cf5 failed:[39m
+[31m2025-05-07T21:35:45.255Z [error]: Job 7e431193-88bd-47eb-b63c-e231dba2da72 failed:[39m
+[31m2025-05-07T21:37:45.430Z [error]: Job f8465719-0037-4c56-901a-635f36b3289c failed:[39m
+[31m2025-05-07T21:38:21.889Z [error]: Job 58 failed: job stalled more than allowable limit[39m
+[31m2025-05-07T21:38:45.407Z [error]: Job 7db48259-7f35-4d64-b59e-42b0b99ac836 failed:[39m
+[31m2025-05-07T21:39:45.408Z [error]: Job 1d9e4bb5-608b-4be3-8837-9e78558b50a3 failed:[39m
+[31m2025-05-07T21:40:45.421Z [error]: Job 89332fa7-eb19-4101-a8ff-884ba98940c5 failed:[39m
+[31m2025-05-07T21:42:57.707Z [error]: Job a4343c7e-a2ea-495a-ae69-451b35f0a26b failed:[39m
+[31m2025-05-07T21:43:27.615Z [error]: Job 6026ae3c-e693-46e3-984b-321d47805756 failed:[39m
+[31m2025-05-07T21:43:48.730Z [error]: Job de206209-4caa-4038-9982-3cc5e69a8fc0 failed:[39m
+[31m2025-05-07T21:45:45.326Z [error]: Job 139bcbf5-803a-4f31-99ca-ee05e866fea2 failed:[39m
+[31m2025-05-07T21:46:06.444Z [error]: Job 1f8a489a-ab25-4db0-9f82-0dd4a3ff5df1 failed:[39m
+[31m2025-05-07T21:46:45.366Z [error]: Job 4d7c3ffd-ddf9-4329-b8ac-facdaa9d2225 failed:[39m
+[31m2025-05-07T21:47:45.454Z [error]: Job 6370d8c9-9d76-47e0-a0ca-d33f77a9cc13 failed:[39m
+[31m2025-05-07T21:49:07.062Z [error]: Job c761f20a-2416-43e6-82b7-f6f07198ce46 failed:[39m
+[31m2025-05-07T21:49:45.389Z [error]: Job 02bef88b-af87-47c4-a870-8f2491d5176f failed:[39m
+[31m2025-05-07T21:51:45.434Z [error]: Job 7a722849-62f3-40a9-812b-fec408198210 failed:[39m
+[31m2025-05-07T21:52:06.551Z [error]: Job 75457806-6d6e-47c3-be3e-1407c5a79883 failed:[39m
+[31m2025-05-07T21:52:45.560Z [error]: Job 9cbbaea6-4be9-4639-8156-ad2a2dac520d failed:[39m
+[31m2025-05-07T21:53:45.412Z [error]: Job a4d61f8e-5a9a-4bcc-add7-9d73f8d859bd failed:[39m
+[31m2025-05-07T21:54:45.482Z [error]: Job 8544f18e-91f8-40f8-b697-98f1d24598ce failed:[39m
+[31m2025-05-07T21:57:04.434Z [error]: Job ad88ce9b-c4b9-4d8b-a21d-4e705ed03cc6 failed:[39m
+[31m2025-05-07T21:57:34.364Z [error]: Job 1b0bb8db-0212-409e-a832-798b20f73845 failed:[39m
+[31m2025-05-07T21:57:55.478Z [error]: Job b1e30482-aafb-454d-ae08-668f7f8ec75a failed:[39m
+[31m2025-05-07T21:58:45.535Z [error]: Job 532918e8-05a0-4c2c-bd0c-25b54c7f6a05 failed:[39m
+[31m2025-05-07T21:59:45.603Z [error]: Job 60960f44-baeb-465b-a139-f29685ff343a failed:[39m
+[31m2025-05-07T22:00:45.588Z [error]: Job 175e44fa-daff-48b8-a15e-85367ef88fea failed:[39m
+[31m2025-05-07T22:03:36.125Z [error]: Job 83 failed: job stalled more than allowable limit[39m
+[31m2025-05-07T22:04:31.065Z [error]: Job 07ebb739-b488-4e83-ad31-97d42a163a06 failed:[39m
+[31m2025-05-07T22:04:39.779Z [error]: Job 84 failed: job stalled more than allowable limit[39m
+[31m2025-05-07T22:04:52.271Z [error]: Job 5e4596a9-1e9a-4056-8f4c-800f68bcef4a failed:[39m
+[32m2025-05-08T11:26:33.603Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-08T11:26:33.930Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:33.971Z [info]: Called 09139101367 | Response status: 200[39m
+[32m2025-05-08T11:26:33.980Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.037Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.067Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.102Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.149Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.191Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.224Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.250Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.265Z [info]: Called 09133370495 | Response status: 200[39m
+[32m2025-05-08T11:26:34.274Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.308Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.333Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.354Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.377Z [info]: Called 09137048845 | Response status: 200[39m
+[32m2025-05-08T11:26:34.397Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.429Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.450Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.472Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.492Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.516Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.537Z [info]: Called 09132505553 | Response status: 200[39m
+[32m2025-05-08T11:26:34.552Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.585Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.605Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.624Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.649Z [info]: Called 09139034048 | Response status: 200[39m
+[32m2025-05-08T11:26:34.663Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.690Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.746Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.819Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.868Z [info]: Called 09133740642 | Response status: 200[39m
+[32m2025-05-08T11:26:34.938Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:34.983Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.014Z [info]: Called 09133132259 | Response status: 200[39m
+[32m2025-05-08T11:26:35.036Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.055Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.090Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.112Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.132Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.139Z [info]: Called 09132438166 | Response status: 200[39m
+[32m2025-05-08T11:26:35.163Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.197Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.216Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.236Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.246Z [info]: Called 09139420871 | Response status: 200[39m
+[32m2025-05-08T11:26:35.277Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.314Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.333Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.353Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.357Z [info]: Called 09133099097 | Response status: 200[39m
+[32m2025-05-08T11:26:35.389Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.413Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.439Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.461Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.480Z [info]: Called 09134487237 | Response status: 200[39m
+[32m2025-05-08T11:26:35.487Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.539Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.557Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.573Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.590Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.597Z [info]: Called 09137756223 | Response status: 200[39m
+[32m2025-05-08T11:26:35.638Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.656Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.683Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.702Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.724Z [info]: Called 09138550346 | Response status: 200[39m
+[32m2025-05-08T11:26:35.734Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.770Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.819Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.867Z [info]: Called 09133908337 | Response status: 200[39m
+[32m2025-05-08T11:26:35.977Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:35.996Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.036Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.063Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.076Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.100Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.119Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.135Z [info]: POST /campaigns/start 200 66 - 3253.814 ms[39m
+[32m2025-05-08T11:26:36.146Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.171Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.189Z [info]: Called 09132519107 | Response status: 200[39m
+[32m2025-05-08T11:26:36.200Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.219Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.232Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.248Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.261Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.272Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.279Z [info]: Called 09134225320 | Response status: 200[39m
+[32m2025-05-08T11:26:36.288Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.304Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.316Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.331Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.361Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.374Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.386Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.402Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.414Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.426Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.430Z [info]: Called 09134968196 | Response status: 200[39m
+[32m2025-05-08T11:26:36.440Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.451Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.466Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.484Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.497Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.514Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.521Z [info]: Called 09139742776 | Response status: 200[39m
+[32m2025-05-08T11:26:36.540Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.584Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.596Z [info]: Called 09131106219 | Response status: 200[39m
+[32m2025-05-08T11:26:36.627Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.653Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.697Z [info]: Called 09134363987 | Response status: 200[39m
+[32m2025-05-08T11:26:36.711Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.742Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.771Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.794Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.812Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.830Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.849Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.866Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.888Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.927Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:36.983Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.041Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.062Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.076Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.109Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.121Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.136Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.150Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.168Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.185Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.202Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.216Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.231Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.241Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.252Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.267Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.286Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.300Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.315Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.329Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.341Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.353Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.364Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.374Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.383Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.395Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T11:26:37.412Z [info]: Webhook sent: campaign_completed[39m
+[32m2025-05-08T11:27:33.940Z [info]: Called 09136720851 | Response status: 200[39m
+[32m2025-05-08T11:27:34.037Z [info]: Called 09135456102 | Response status: 200[39m
+[32m2025-05-08T11:27:34.110Z [info]: Called 09136363065 | Response status: 200[39m
+[32m2025-05-08T11:27:34.189Z [info]: Called 09131446114 | Response status: 200[39m
+[32m2025-05-08T11:27:34.263Z [info]: Called 09133753106 | Response status: 200[39m
+[32m2025-05-08T11:27:34.329Z [info]: Called 09133989609 | Response status: 200[39m
+[32m2025-05-08T11:27:34.398Z [info]: Called 09133491654 | Response status: 200[39m
+[32m2025-05-08T11:27:34.520Z [info]: Called 09134771009 | Response status: 200[39m
+[32m2025-05-08T11:27:34.606Z [info]: Called 09135372699 | Response status: 200[39m
+[32m2025-05-08T11:27:34.680Z [info]: Called 09131464304 | Response status: 200[39m
+[32m2025-05-08T11:27:34.781Z [info]: Called 09134005347 | Response status: 200[39m
+[32m2025-05-08T11:27:34.917Z [info]: Called 09136935164 | Response status: 200[39m
+[32m2025-05-08T11:27:34.997Z [info]: Called 09138157525 | Response status: 200[39m
+[32m2025-05-08T11:27:35.106Z [info]: Called 09135348005 | Response status: 200[39m
+[32m2025-05-08T11:27:35.201Z [info]: Called 09138659850 | Response status: 200[39m
+[32m2025-05-08T11:27:35.278Z [info]: Called 09134580738 | Response status: 200[39m
+[32m2025-05-08T11:27:35.354Z [info]: Called 09137474734 | Response status: 200[39m
+[32m2025-05-08T11:27:35.448Z [info]: Called 09131102656 | Response status: 200[39m
+[32m2025-05-08T11:27:35.526Z [info]: Called 09139754754 | Response status: 200[39m
+[32m2025-05-08T11:27:35.715Z [info]: Called 09136795945 | Response status: 200[39m
+[32m2025-05-08T11:28:34.175Z [info]: Called 09139105063 | Response status: 200[39m
+[32m2025-05-08T11:28:34.313Z [info]: Called 09134282222 | Response status: 200[39m
+[32m2025-05-08T11:28:34.407Z [info]: Called 09134313814 | Response status: 200[39m
+[32m2025-05-08T11:28:34.513Z [info]: Called 09139939476 | Response status: 200[39m
+[32m2025-05-08T11:28:34.633Z [info]: Called 09136733789 | Response status: 200[39m
+[32m2025-05-08T11:28:34.753Z [info]: Called 09138379820 | Response status: 200[39m
+[32m2025-05-08T11:28:34.873Z [info]: Called 09132165447 | Response status: 200[39m
+[32m2025-05-08T11:28:34.993Z [info]: Called 09133235330 | Response status: 200[39m
+[32m2025-05-08T11:28:35.121Z [info]: Called 09133647677 | Response status: 200[39m
+[32m2025-05-08T11:28:35.233Z [info]: Called 09136670936 | Response status: 200[39m
+[32m2025-05-08T11:28:35.325Z [info]: Called 09133566989 | Response status: 200[39m
+[32m2025-05-08T11:28:35.752Z [info]: Called 09136151523 | Response status: 200[39m
+[32m2025-05-08T11:28:35.845Z [info]: Called 09133179045 | Response status: 200[39m
+[32m2025-05-08T11:28:35.952Z [info]: Called 09133909179 | Response status: 200[39m
+[32m2025-05-08T11:28:36.073Z [info]: Called 09135501799 | Response status: 200[39m
+[32m2025-05-08T11:28:36.246Z [info]: Called 09139982356 | Response status: 200[39m
+[32m2025-05-08T11:28:36.355Z [info]: Called 09136846969 | Response status: 200[39m
+[32m2025-05-08T11:28:36.443Z [info]: Called 09134402299 | Response status: 200[39m
+[32m2025-05-08T11:28:36.581Z [info]: Called 09136806768 | Response status: 200[39m
+[32m2025-05-08T11:28:36.708Z [info]: Called 09134171333 | Response status: 200[39m
+[32m2025-05-08T11:29:37.171Z [info]: Called 09133304148 | Response status: 200[39m
+[32m2025-05-08T11:29:37.327Z [info]: Called 09131943063 | Response status: 200[39m
+[32m2025-05-08T11:30:34.283Z [info]: Called 09134966583 | Response status: 200[39m
+[32m2025-05-08T11:30:34.409Z [info]: Called 09138261531 | Response status: 200[39m
+[32m2025-05-08T11:30:34.518Z [info]: Called 09139194010 | Response status: 200[39m
+[32m2025-05-08T11:30:34.637Z [info]: Called 09131635468 | Response status: 200[39m
+[32m2025-05-08T11:30:34.756Z [info]: Called 09139631610 | Response status: 200[39m
+[32m2025-05-08T11:30:34.850Z [info]: Called 09135029419 | Response status: 200[39m
+[32m2025-05-08T11:30:34.956Z [info]: Called 09134911058 | Response status: 200[39m
+[32m2025-05-08T11:30:35.079Z [info]: Called 09138207961 | Response status: 200[39m
+[32m2025-05-08T11:30:35.199Z [info]: Called 09132756954 | Response status: 200[39m
+[32m2025-05-08T11:30:35.318Z [info]: Called 09139838155 | Response status: 200[39m
+[32m2025-05-08T11:30:35.474Z [info]: Called 09135971706 | Response status: 200[39m
+[32m2025-05-08T11:30:35.572Z [info]: Called 09132570748 | Response status: 200[39m
+[32m2025-05-08T11:30:35.677Z [info]: Called 09134151716 | Response status: 200[39m
+[32m2025-05-08T11:30:35.757Z [info]: Called 09136226331 | Response status: 200[39m
+[32m2025-05-08T11:30:35.857Z [info]: Called 09135047898 | Response status: 200[39m
+[32m2025-05-08T11:30:35.956Z [info]: Called 09138168749 | Response status: 200[39m
+[32m2025-05-08T11:30:36.046Z [info]: Called 09139157611 | Response status: 200[39m
+[32m2025-05-08T11:30:36.156Z [info]: Called 09136833109 | Response status: 200[39m
+[32m2025-05-08T11:30:36.250Z [info]: Called 09131020887 | Response status: 200[39m
+[32m2025-05-08T11:30:36.327Z [info]: Called 09134001201 | Response status: 200[39m
+[32m2025-05-08T11:30:38.107Z [info]: Called 09133304148 | Response status: 200[39m
+[32m2025-05-08T11:30:38.210Z [info]: Called 09131943063 | Response status: 200[39m
+[32m2025-05-08T11:30:38.316Z [info]: Called 09134657452 | Response status: 200[39m
+[32m2025-05-08T11:30:38.438Z [info]: Called 09131245030 | Response status: 200[39m
+[32m2025-05-08T11:30:38.528Z [info]: Called 09131604335 | Response status: 200[39m
+[32m2025-05-08T11:30:38.643Z [info]: Called 09133532963 | Response status: 200[39m
+[32m2025-05-08T11:30:38.745Z [info]: Called 09133905857 | Response status: 200[39m
+[32m2025-05-08T11:30:38.836Z [info]: Called 09136946084 | Response status: 200[39m
+[32m2025-05-08T11:30:38.926Z [info]: Called 09133351741 | Response status: 200[39m
+[32m2025-05-08T11:30:39.037Z [info]: Called 09132732098 | Response status: 200[39m
+[32m2025-05-08T11:30:39.185Z [info]: Called 09138008017 | Response status: 200[39m
+[32m2025-05-08T11:30:39.407Z [info]: Called 09136634778 | Response status: 200[39m
+[32m2025-05-08T11:30:39.556Z [info]: Called 09133363533 | Response status: 200[39m
+[32m2025-05-08T11:30:39.660Z [info]: Called 09137306111 | Response status: 200[39m
+[32m2025-05-08T11:30:39.764Z [info]: Called 09139716859 | Response status: 200[39m
+[32m2025-05-08T11:30:39.887Z [info]: Called 09136250161 | Response status: 200[39m
+[32m2025-05-08T11:30:39.996Z [info]: Called 09135857410 | Response status: 200[39m
+[32m2025-05-08T11:30:40.116Z [info]: Called 09138320826 | Response status: 200[39m
+[32m2025-05-08T11:30:40.200Z [info]: Called 09139359473 | Response status: 200[39m
+[32m2025-05-08T11:30:40.314Z [info]: Called 09135850551 | Response status: 200[39m
+[32m2025-05-08T11:31:34.296Z [info]: Called 09132222411 | Response status: 200[39m
+[32m2025-05-08T11:31:34.404Z [info]: Called 09135141545 | Response status: 200[39m
+[32m2025-05-08T11:31:34.579Z [info]: Called 09132321540 | Response status: 200[39m
+[32m2025-05-08T11:31:34.662Z [info]: Called 09133464456 | Response status: 200[39m
+[32m2025-05-08T11:31:34.750Z [info]: Called 09139246620 | Response status: 200[39m
+[32m2025-05-08T11:31:34.869Z [info]: Called 09132116115 | Response status: 200[39m
+[32m2025-05-08T11:31:34.976Z [info]: Called 09133630241 | Response status: 200[39m
+[32m2025-05-08T11:31:35.077Z [info]: Called 09138118354 | Response status: 200[39m
+[32m2025-05-08T11:31:35.156Z [info]: Called 09131714436 | Response status: 200[39m
+[32m2025-05-08T11:31:35.248Z [info]: Called 09132035792 | Response status: 200[39m
+[32m2025-05-08T11:31:35.342Z [info]: Called 09135691384 | Response status: 200[39m
+[32m2025-05-08T11:31:35.437Z [info]: Called 09131445909 | Response status: 200[39m
+[32m2025-05-08T11:31:35.552Z [info]: Called 09137926682 | Response status: 200[39m
+[32m2025-05-08T11:31:35.635Z [info]: Called 09133061435 | Response status: 200[39m
+[32m2025-05-08T11:31:35.731Z [info]: Called 09137344189 | Response status: 200[39m
+[32m2025-05-08T11:31:35.799Z [info]: Called 09138030103 | Response status: 200[39m
+[32m2025-05-08T11:31:35.920Z [info]: Called 09132291948 | Response status: 200[39m
+[32m2025-05-08T11:31:36.013Z [info]: Called 09133607602 | Response status: 200[39m
+[32m2025-05-08T11:31:36.115Z [info]: Called 09131452685 | Response status: 200[39m
+[32m2025-05-08T11:31:36.221Z [info]: Called 09131531426 | Response status: 200[39m
+[31m2025-05-08T12:47:23.117Z [error]: Job failed[39m
+[32m2025-05-08T12:47:23.191Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-08T12:47:23.222Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.239Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.257Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.275Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.293Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.315Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.333Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.365Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.386Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.403Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.418Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.440Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.475Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.498Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.521Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.541Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.559Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.574Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.587Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.601Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.618Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.633Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.643Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.655Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.667Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.680Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.693Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.707Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.720Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.733Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.746Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.759Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.771Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.787Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.800Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.813Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.826Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.839Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.852Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.866Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.880Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.911Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.955Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:23.991Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.072Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.097Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.115Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.132Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.138Z [info]: POST /campaigns/start 200 66 - 1664.735 ms[39m
+[32m2025-05-08T12:47:24.155Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.194Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.211Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.224Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.237Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.253Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.268Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.284Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.299Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.312Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.334Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.353Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.369Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.384Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.399Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.418Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.432Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.450Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.464Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.485Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.505Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.526Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.629Z [info]: Called 09139101367 | Response status: 200[39m
+[32m2025-05-08T12:47:24.643Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.663Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.677Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.693Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.707Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.733Z [info]: Called 09133370495 | Response status: 200[39m
+[32m2025-05-08T12:47:24.734Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.763Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.783Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.797Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.814Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.826Z [info]: Called 09137048845 | Response status: 200[39m
+[32m2025-05-08T12:47:24.832Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.849Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.872Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.892Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.910Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.923Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.936Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.951Z [info]: Called 09132505553 | Response status: 200[39m
+[32m2025-05-08T12:47:24.956Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.975Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:24.995Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.008Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.022Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.039Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.055Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.071Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.086Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.102Z [info]: Called 09139034048 | Response status: 200[39m
+[32m2025-05-08T12:47:25.118Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.144Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.171Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.189Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.222Z [info]: Called 09133740642 | Response status: 200[39m
+[32m2025-05-08T12:47:25.220Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.255Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.301Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.320Z [info]: Called 09133132259 | Response status: 200[39m
+[32m2025-05-08T12:47:25.337Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.394Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.420Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.441Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.483Z [info]: Called 09132438166 | Response status: 200[39m
+[32m2025-05-08T12:47:25.533Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.583Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.601Z [info]: Called 09139420871 | Response status: 200[39m
+[32m2025-05-08T12:47:25.615Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.650Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.678Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.697Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.706Z [info]: Called 09133099097 | Response status: 200[39m
+[32m2025-05-08T12:47:25.713Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.894Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.920Z [info]: Called 09134487237 | Response status: 200[39m
+[32m2025-05-08T12:47:25.930Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.952Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.969Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.985Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:25.997Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.009Z [info]: Called 09137756223 | Response status: 200[39m
+[32m2025-05-08T12:47:26.008Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.024Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.036Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.051Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.062Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.074Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.082Z [info]: Called 09138550346 | Response status: 200[39m
+[32m2025-05-08T12:47:26.085Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.099Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.117Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T12:47:26.146Z [info]: Webhook sent: campaign_completed[39m
+[32m2025-05-08T12:47:26.471Z [info]: Called 09133908337 | Response status: 200[39m
+[32m2025-05-08T12:47:26.563Z [info]: Called 09132519107 | Response status: 200[39m
+[32m2025-05-08T12:47:26.684Z [info]: Called 09134225320 | Response status: 200[39m
+[32m2025-05-08T12:47:26.791Z [info]: Called 09134968196 | Response status: 200[39m
+[32m2025-05-08T12:47:26.876Z [info]: Called 09139742776 | Response status: 200[39m
+[32m2025-05-08T12:47:26.993Z [info]: Called 09131106219 | Response status: 200[39m
+[32m2025-05-08T12:47:27.104Z [info]: Called 09134363987 | Response status: 200[39m
+[31m2025-05-08T12:48:23.084Z [error]: Job failed[39m
+[32m2025-05-08T12:48:24.483Z [info]: Called 09136720851 | Response status: 200[39m
+[32m2025-05-08T12:48:24.590Z [info]: Called 09135456102 | Response status: 200[39m
+[32m2025-05-08T12:48:24.688Z [info]: Called 09136363065 | Response status: 200[39m
+[32m2025-05-08T12:48:24.821Z [info]: Called 09131446114 | Response status: 200[39m
+[32m2025-05-08T12:48:24.972Z [info]: Called 09133753106 | Response status: 200[39m
+[32m2025-05-08T12:48:25.068Z [info]: Called 09133989609 | Response status: 200[39m
+[32m2025-05-08T12:48:25.151Z [info]: Called 09133491654 | Response status: 200[39m
+[32m2025-05-08T12:48:25.236Z [info]: Called 09134771009 | Response status: 200[39m
+[32m2025-05-08T12:48:25.321Z [info]: Called 09135372699 | Response status: 200[39m
+[32m2025-05-08T12:48:25.417Z [info]: Called 09131464304 | Response status: 200[39m
+[32m2025-05-08T12:48:25.518Z [info]: Called 09134005347 | Response status: 200[39m
+[32m2025-05-08T12:48:25.601Z [info]: Called 09136935164 | Response status: 200[39m
+[32m2025-05-08T12:48:25.694Z [info]: Called 09138157525 | Response status: 200[39m
+[32m2025-05-08T12:48:25.794Z [info]: Called 09135348005 | Response status: 200[39m
+[32m2025-05-08T12:48:25.871Z [info]: Called 09138659850 | Response status: 200[39m
+[32m2025-05-08T12:48:25.968Z [info]: Called 09134580738 | Response status: 200[39m
+[32m2025-05-08T12:48:26.134Z [info]: Called 09137474734 | Response status: 200[39m
+[32m2025-05-08T12:48:26.251Z [info]: Called 09131102656 | Response status: 200[39m
+[32m2025-05-08T12:48:26.315Z [info]: Called 09139754754 | Response status: 200[39m
+[32m2025-05-08T12:48:26.438Z [info]: Called 09136795945 | Response status: 200[39m
+[32m2025-05-08T12:49:23.466Z [info]: Called 09139105063 | Response status: 200[39m
+[32m2025-05-08T12:49:23.548Z [info]: Called 09134282222 | Response status: 200[39m
+[32m2025-05-08T12:49:23.654Z [info]: Called 09134313814 | Response status: 200[39m
+[32m2025-05-08T12:49:23.745Z [info]: Called 09139939476 | Response status: 200[39m
+[32m2025-05-08T12:49:23.837Z [info]: Called 09136733789 | Response status: 200[39m
+[32m2025-05-08T12:49:23.935Z [info]: Called 09138379820 | Response status: 200[39m
+[32m2025-05-08T12:49:24.075Z [info]: Called 09132165447 | Response status: 200[39m
+[32m2025-05-08T12:49:24.183Z [info]: Called 09133235330 | Response status: 200[39m
+[32m2025-05-08T12:49:24.265Z [info]: Called 09133647677 | Response status: 200[39m
+[32m2025-05-08T12:49:24.416Z [info]: Called 09136670936 | Response status: 200[39m
+[32m2025-05-08T12:49:24.503Z [info]: Called 09133566989 | Response status: 200[39m
+[32m2025-05-08T12:49:24.590Z [info]: Called 09136151523 | Response status: 200[39m
+[32m2025-05-08T12:49:24.664Z [info]: Called 09133179045 | Response status: 200[39m
+[32m2025-05-08T12:49:24.749Z [info]: Called 09133909179 | Response status: 200[39m
+[32m2025-05-08T12:49:24.830Z [info]: Called 09135501799 | Response status: 200[39m
+[32m2025-05-08T12:49:24.959Z [info]: Called 09139982356 | Response status: 200[39m
+[32m2025-05-08T12:49:25.057Z [info]: Called 09136846969 | Response status: 200[39m
+[32m2025-05-08T12:49:25.180Z [info]: Called 09134402299 | Response status: 200[39m
+[32m2025-05-08T12:49:25.315Z [info]: Called 09136806768 | Response status: 200[39m
+[32m2025-05-08T12:49:25.387Z [info]: Called 09134171333 | Response status: 200[39m
+[32m2025-05-08T12:50:23.709Z [info]: Called 09133304148 | Response status: 200[39m
+[32m2025-05-08T12:50:23.822Z [info]: Called 09131943063 | Response status: 200[39m
+[32m2025-05-08T12:50:23.942Z [info]: Called 09134657452 | Response status: 200[39m
+[32m2025-05-08T12:50:24.035Z [info]: Called 09131245030 | Response status: 200[39m
+[32m2025-05-08T12:50:24.184Z [info]: Called 09131604335 | Response status: 200[39m
+[32m2025-05-08T12:50:24.310Z [info]: Called 09133532963 | Response status: 200[39m
+[32m2025-05-08T12:50:24.600Z [info]: Called 09133905857 | Response status: 200[39m
+[32m2025-05-08T12:50:24.703Z [info]: Called 09136946084 | Response status: 200[39m
+[32m2025-05-08T12:50:24.799Z [info]: Called 09133351741 | Response status: 200[39m
+[32m2025-05-08T12:50:24.911Z [info]: Called 09132732098 | Response status: 200[39m
+[32m2025-05-08T12:50:25.011Z [info]: Called 09138008017 | Response status: 200[39m
+[32m2025-05-08T12:50:25.105Z [info]: Called 09136634778 | Response status: 200[39m
+[32m2025-05-08T12:50:25.181Z [info]: Called 09133363533 | Response status: 200[39m
+[32m2025-05-08T12:50:25.422Z [info]: Called 09137306111 | Response status: 200[39m
+[32m2025-05-08T12:50:25.594Z [info]: Called 09139716859 | Response status: 200[39m
+[32m2025-05-08T12:50:26.047Z [info]: Called 09136250161 | Response status: 200[39m
+[32m2025-05-08T12:50:26.445Z [info]: Called 09135857410 | Response status: 200[39m
+[32m2025-05-08T12:50:26.797Z [info]: Called 09138320826 | Response status: 200[39m
+[32m2025-05-08T12:50:26.895Z [info]: Called 09139359473 | Response status: 200[39m
+[32m2025-05-08T12:50:27.023Z [info]: Called 09135850551 | Response status: 200[39m
+[31m2025-05-08T15:20:58.496Z [error]: Job failed[39m
+[31m2025-05-08T15:20:58.656Z [error]: Job failed[39m
+[31m2025-05-08T15:20:58.825Z [error]: Job failed[39m
+[31m2025-05-08T15:20:58.893Z [error]: Job failed[39m
+[31m2025-05-08T15:20:58.966Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.041Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.109Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.178Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.251Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.417Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.483Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.546Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.609Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.674Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.749Z [error]: Job failed[39m
+[31m2025-05-08T15:20:59.919Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.072Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.132Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.197Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.263Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.330Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.495Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.557Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.626Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.689Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.759Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.820Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.887Z [error]: Job failed[39m
+[31m2025-05-08T15:21:00.954Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.019Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.083Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.162Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.268Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.338Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.404Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.566Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.630Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.695Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.756Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.820Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.886Z [error]: Job failed[39m
+[31m2025-05-08T15:21:01.950Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.013Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.076Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.139Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.208Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.382Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.445Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.598Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.757Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.821Z [error]: Job failed[39m
+[31m2025-05-08T15:21:02.883Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.048Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.113Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.175Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.235Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.294Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.357Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.421Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.485Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.550Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.615Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.679Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.745Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.820Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.882Z [error]: Job failed[39m
+[31m2025-05-08T15:21:03.948Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.020Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.142Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.236Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.331Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.436Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.626Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.723Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.815Z [error]: Job failed[39m
+[31m2025-05-08T15:21:04.914Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.005Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.096Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.184Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.384Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.488Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.587Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.676Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.764Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.852Z [error]: Job failed[39m
+[31m2025-05-08T15:21:05.947Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.036Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.133Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.267Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.392Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.594Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.697Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.807Z [error]: Job failed[39m
+[31m2025-05-08T15:21:06.911Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.020Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.138Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.271Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.374Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.496Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.616Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.724Z [error]: Job failed[39m
+[31m2025-05-08T15:21:07.887Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.029Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.155Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.256Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.351Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.445Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.542Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.628Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.715Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.801Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.884Z [error]: Job failed[39m
+[31m2025-05-08T15:21:08.967Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.142Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.223Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.304Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.484Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.562Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.641Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.754Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.838Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.916Z [error]: Job failed[39m
+[31m2025-05-08T15:21:09.989Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.063Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.241Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.314Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.384Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.461Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.540Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.623Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.804Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.882Z [error]: Job failed[39m
+[31m2025-05-08T15:21:10.961Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.039Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.121Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.201Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.278Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.355Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.438Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.521Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.605Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.684Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.778Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.884Z [error]: Job failed[39m
+[31m2025-05-08T15:21:11.982Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.075Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.167Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.260Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.479Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.605Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.708Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.807Z [error]: Job failed[39m
+[31m2025-05-08T15:21:12.902Z [error]: Job failed[39m
+[31m2025-05-08T15:21:13.090Z [error]: Job failed[39m
+[31m2025-05-08T15:21:13.291Z [error]: Job failed[39m
+[31m2025-05-08T15:21:13.390Z [error]: Job failed[39m
+[31m2025-05-08T15:21:13.491Z [error]: Job failed[39m
+[31m2025-05-08T15:21:13.609Z [error]: Job failed[39m
+[31m2025-05-08T15:21:13.789Z [error]: Job failed[39m
+[31m2025-05-08T15:21:13.949Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.083Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.206Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.322Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.445Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.567Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.694Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.810Z [error]: Job failed[39m
+[31m2025-05-08T15:21:14.938Z [error]: Job failed[39m
+[31m2025-05-08T15:21:15.057Z [error]: Job failed[39m
+[31m2025-05-08T15:21:15.177Z [error]: Job failed[39m
+[31m2025-05-08T15:21:15.317Z [error]: Job failed[39m
+[31m2025-05-08T15:21:15.496Z [error]: Job failed[39m
+[31m2025-05-08T15:21:15.670Z [error]: Job failed[39m
+[31m2025-05-08T15:21:15.890Z [error]: Job failed[39m
+[31m2025-05-08T15:21:16.066Z [error]: Job failed[39m
+[31m2025-05-08T15:21:16.209Z [error]: Job failed[39m
+[31m2025-05-08T15:21:16.329Z [error]: Job failed[39m
+[31m2025-05-08T15:21:16.441Z [error]: Job failed[39m
+[31m2025-05-08T15:21:16.564Z [error]: Job failed[39m
+[31m2025-05-08T15:21:16.671Z [error]: Job failed[39m
+[31m2025-05-08T15:21:16.858Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.042Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.130Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.217Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.301Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.477Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.563Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.648Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.734Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.920Z [error]: Job failed[39m
+[31m2025-05-08T15:21:17.995Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.067Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.142Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.219Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.305Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.394Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.491Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.585Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.767Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.853Z [error]: Job failed[39m
+[31m2025-05-08T15:21:18.941Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.029Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.120Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.210Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.301Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.388Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.482Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.661Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.750Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.847Z [error]: Job failed[39m
+[31m2025-05-08T15:21:19.971Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.080Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.186Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.374Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.474Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.569Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.656Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.745Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.834Z [error]: Job failed[39m
+[31m2025-05-08T15:21:20.967Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.051Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.141Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.231Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.316Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.401Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.578Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.665Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.754Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.846Z [error]: Job failed[39m
+[31m2025-05-08T15:21:21.942Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.024Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.192Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.266Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.341Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.419Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.502Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.584Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.665Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.749Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.834Z [error]: Job failed[39m
+[31m2025-05-08T15:21:22.916Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.091Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.168Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.338Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.505Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.583Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.657Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.740Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.840Z [error]: Job failed[39m
+[31m2025-05-08T15:21:23.947Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.144Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.238Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.332Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.424Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.510Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.693Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.778Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.866Z [error]: Job failed[39m
+[31m2025-05-08T15:21:24.955Z [error]: Job failed[39m
+[31m2025-05-08T15:21:25.041Z [error]: Job failed[39m
+[31m2025-05-08T15:21:25.212Z [error]: Job failed[39m
+[31m2025-05-08T15:21:25.295Z [error]: Job failed[39m
+[31m2025-05-08T15:21:25.393Z [error]: Job failed[39m
+[31m2025-05-08T15:21:25.578Z [error]: Job failed[39m
+[31m2025-05-08T15:21:25.758Z [error]: Job failed[39m
+[31m2025-05-08T15:21:25.940Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.015Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.092Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.265Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.336Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.408Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.477Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.651Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.732Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.818Z [error]: Job failed[39m
+[31m2025-05-08T15:21:26.895Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.030Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.122Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.206Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.289Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.372Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.455Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.541Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.622Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.707Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.794Z [error]: Job failed[39m
+[31m2025-05-08T15:21:27.989Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.082Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.177Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.412Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.595Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.699Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.794Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.892Z [error]: Job failed[39m
+[31m2025-05-08T15:21:28.980Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.169Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.270Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.358Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.446Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.537Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.627Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.717Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.812Z [error]: Job failed[39m
+[31m2025-05-08T15:21:29.998Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.069Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.138Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.209Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.288Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.430Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.542Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.759Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.876Z [error]: Job failed[39m
+[31m2025-05-08T15:21:30.984Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.088Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.176Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.268Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.376Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.484Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.609Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.712Z [error]: Job failed[39m
+[31m2025-05-08T15:21:31.904Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.108Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.205Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.297Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.388Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.585Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.677Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.761Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.854Z [error]: Job failed[39m
+[31m2025-05-08T15:21:32.940Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.027Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.108Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.194Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.287Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.374Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.458Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.545Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.627Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.708Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.804Z [error]: Job failed[39m
+[31m2025-05-08T15:21:33.912Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.086Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.161Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.236Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.315Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.389Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.468Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.546Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.623Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.701Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.780Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.862Z [error]: Job failed[39m
+[31m2025-05-08T15:21:34.947Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.118Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.193Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.269Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.344Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.524Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.693Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.769Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.862Z [error]: Job failed[39m
+[31m2025-05-08T15:21:35.958Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.071Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.190Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.279Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.373Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.563Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.664Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.759Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.849Z [error]: Job failed[39m
+[31m2025-05-08T15:21:36.945Z [error]: Job failed[39m
+[31m2025-05-08T15:21:37.041Z [error]: Job failed[39m
+[31m2025-05-08T15:21:58.480Z [error]: Job failed[39m
+[31m2025-05-08T15:21:59.612Z [error]: Job failed[39m
+[31m2025-05-08T15:22:01.832Z [error]: Job failed[39m
+[32m2025-05-08T15:30:26.027Z [info]: POST /campaigns/start 404 30 - 88.307 ms[39m
+[32m2025-05-08T15:30:41.033Z [info]: POST /campaigns/start 200 62 - 106.441 ms[39m
+[32m2025-05-08T15:30:41.076Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-08T15:30:41.512Z [info]: Called 09139770431[39m
+[32m2025-05-08T15:30:41.600Z [info]: Called 09138008992[39m
+[32m2025-05-08T15:30:41.675Z [info]: Called 09139454970[39m
+[32m2025-05-08T15:30:41.770Z [info]: Called 09131505152[39m
+[32m2025-05-08T15:30:41.855Z [info]: Called 09136505672[39m
+[32m2025-05-08T15:30:41.940Z [info]: Called 09133458711[39m
+[32m2025-05-08T15:30:42.032Z [info]: Called 09138846510[39m
+[32m2025-05-08T15:30:42.111Z [info]: Called 09136539473[39m
+[32m2025-05-08T15:30:42.194Z [info]: Called 09136262902[39m
+[32m2025-05-08T15:30:42.296Z [info]: Called 09139030072[39m
+[32m2025-05-08T15:30:42.388Z [info]: Called 09135681259[39m
+[32m2025-05-08T15:30:42.462Z [info]: Called 09134610084[39m
+[32m2025-05-08T15:30:42.544Z [info]: Called 09138443673[39m
+[32m2025-05-08T15:30:42.621Z [info]: Called 09136859842[39m
+[32m2025-05-08T15:30:42.701Z [info]: Called 09136408530[39m
+[32m2025-05-08T15:30:42.781Z [info]: Called 09137892465[39m
+[32m2025-05-08T15:30:42.868Z [info]: Called 09131123132[39m
+[32m2025-05-08T15:30:42.970Z [info]: Called 09139426165[39m
+[32m2025-05-08T15:30:43.184Z [info]: Called 09135016753[39m
+[32m2025-05-08T15:30:43.254Z [info]: Called 09136941360[39m
+[32m2025-05-08T15:30:43.270Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T15:30:50.245Z [info]: POST /campaigns/start 200 62 - 11.895 ms[39m
+[32m2025-05-08T15:30:50.249Z [info]: Webhook sent: campaign_start[39m
+[32m2025-05-08T15:30:50.461Z [info]: Called 09139101367[39m
+[32m2025-05-08T15:30:50.547Z [info]: Called 09133370495[39m
+[32m2025-05-08T15:30:50.621Z [info]: Called 09137048845[39m
+[32m2025-05-08T15:30:50.782Z [info]: Called 09132505553[39m
+[32m2025-05-08T15:30:50.864Z [info]: Called 09139034048[39m
+[32m2025-05-08T15:30:50.943Z [info]: Called 09133740642[39m
+[32m2025-05-08T15:30:51.023Z [info]: Called 09133132259[39m
+[32m2025-05-08T15:30:51.101Z [info]: Called 09132438166[39m
+[32m2025-05-08T15:30:51.180Z [info]: Called 09139420871[39m
+[32m2025-05-08T15:30:51.261Z [info]: Called 09133099097[39m
+[32m2025-05-08T15:30:51.342Z [info]: Called 09134487237[39m
+[32m2025-05-08T15:30:51.421Z [info]: Called 09137756223[39m
+[32m2025-05-08T15:30:51.782Z [info]: Called 09138550346[39m
+[32m2025-05-08T15:30:51.870Z [info]: Called 09133908337[39m
+[32m2025-05-08T15:30:51.940Z [info]: Called 09132519107[39m
+[32m2025-05-08T15:30:52.063Z [info]: Called 09134225320[39m
+[32m2025-05-08T15:30:52.131Z [info]: Called 09134968196[39m
+[32m2025-05-08T15:30:52.220Z [info]: Called 09139742776[39m
+[32m2025-05-08T15:30:52.301Z [info]: Called 09131106219[39m
+[32m2025-05-08T15:30:52.387Z [info]: Called 09134363987[39m
+[32m2025-05-08T15:30:52.400Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T15:32:41.362Z [info]: Called 09138636390[39m
+[32m2025-05-08T15:32:41.458Z [info]: Called 09131652920[39m
+[32m2025-05-08T15:32:41.576Z [info]: Called 09137411526[39m
+[32m2025-05-08T15:32:41.651Z [info]: Called 09137331730[39m
+[32m2025-05-08T15:32:41.764Z [info]: Called 09134253025[39m
+[32m2025-05-08T15:32:41.856Z [info]: Called 09135515635[39m
+[32m2025-05-08T15:32:41.974Z [info]: Called 09132372549[39m
+[32m2025-05-08T15:32:42.094Z [info]: Called 09133146978[39m
+[32m2025-05-08T15:32:42.173Z [info]: Called 09137723559[39m
+[32m2025-05-08T15:32:42.253Z [info]: Called 09132200936[39m
+[32m2025-05-08T15:32:42.333Z [info]: Called 09131107858[39m
+[32m2025-05-08T15:32:42.414Z [info]: Called 09132146404[39m
+[32m2025-05-08T15:32:42.493Z [info]: Called 09138227932[39m
+[32m2025-05-08T15:32:42.573Z [info]: Called 09138533738[39m
+[32m2025-05-08T15:32:42.683Z [info]: Called 09138476331[39m
+[32m2025-05-08T15:32:42.775Z [info]: Called 09134315489[39m
+[32m2025-05-08T15:32:42.860Z [info]: Called 09134234770[39m
+[32m2025-05-08T15:32:42.933Z [info]: Called 09131772741[39m
+[32m2025-05-08T15:32:43.133Z [info]: Called 09136838844[39m
+[32m2025-05-08T15:32:43.219Z [info]: Called 09134783395[39m
+[32m2025-05-08T15:32:43.230Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T15:32:50.413Z [info]: Called 09136720851[39m
+[32m2025-05-08T15:32:50.493Z [info]: Called 09135456102[39m
+[32m2025-05-08T15:32:50.572Z [info]: Called 09136363065[39m
+[32m2025-05-08T15:32:50.670Z [info]: Called 09131446114[39m
+[32m2025-05-08T15:32:50.745Z [info]: Called 09133753106[39m
+[32m2025-05-08T15:32:50.812Z [info]: Called 09133989609[39m
+[32m2025-05-08T15:32:50.886Z [info]: Called 09133491654[39m
+[32m2025-05-08T15:32:50.949Z [info]: Called 09134771009[39m
+[32m2025-05-08T15:32:51.052Z [info]: Called 09135372699[39m
+[32m2025-05-08T15:32:51.136Z [info]: Called 09131464304[39m
+[32m2025-05-08T15:32:51.211Z [info]: Called 09134005347[39m
+[32m2025-05-08T15:32:51.291Z [info]: Called 09136935164[39m
+[32m2025-05-08T15:32:51.376Z [info]: Called 09138157525[39m
+[32m2025-05-08T15:32:51.453Z [info]: Called 09135348005[39m
+[32m2025-05-08T15:32:51.542Z [info]: Called 09138659850[39m
+[32m2025-05-08T15:32:51.619Z [info]: Called 09134580738[39m
+[32m2025-05-08T15:32:51.685Z [info]: Called 09137474734[39m
+[32m2025-05-08T15:32:51.772Z [info]: Called 09131102656[39m
+[32m2025-05-08T15:32:51.853Z [info]: Called 09139754754[39m
+[32m2025-05-08T15:32:51.933Z [info]: Called 09136795945[39m
+[32m2025-05-08T15:32:51.943Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T15:34:41.499Z [info]: Called 09139856390[39m
+[32m2025-05-08T15:34:41.573Z [info]: Called 09133458929[39m
+[32m2025-05-08T15:34:41.651Z [info]: Called 09131130992[39m
+[32m2025-05-08T15:34:41.731Z [info]: Called 09134259247[39m
+[32m2025-05-08T15:34:41.811Z [info]: Called 09139988368[39m
+[32m2025-05-08T15:34:41.891Z [info]: Called 09135361132[39m
+[32m2025-05-08T15:34:41.971Z [info]: Called 09138598425[39m
+[32m2025-05-08T15:34:42.051Z [info]: Called 09131398873[39m
+[32m2025-05-08T15:34:42.131Z [info]: Called 09132637149[39m
+[32m2025-05-08T15:34:42.211Z [info]: Called 09135496505[39m
+[32m2025-05-08T15:34:42.300Z [info]: Called 09132249921[39m
+[32m2025-05-08T15:34:42.439Z [info]: Called 09136978321[39m
+[32m2025-05-08T15:34:42.530Z [info]: Called 09133720970[39m
+[32m2025-05-08T15:34:42.614Z [info]: Called 09139352435[39m
+[32m2025-05-08T15:34:42.694Z [info]: Called 09132223481[39m
+[32m2025-05-08T15:34:42.775Z [info]: Called 09137921070[39m
+[32m2025-05-08T15:34:42.852Z [info]: Called 09138688881[39m
+[32m2025-05-08T15:34:42.960Z [info]: Called 09132310688[39m
+[32m2025-05-08T15:34:43.050Z [info]: Called 09137463497[39m
+[32m2025-05-08T15:34:43.131Z [info]: Called 09139471905[39m
+[32m2025-05-08T15:34:43.161Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T15:34:43.166Z [info]: Webhook sent: campaign_completed[39m
+[32m2025-05-08T15:34:50.447Z [info]: Called 09139105063[39m
+[32m2025-05-08T15:34:50.531Z [info]: Called 09134282222[39m
+[32m2025-05-08T15:34:50.612Z [info]: Called 09134313814[39m
+[32m2025-05-08T15:34:50.691Z [info]: Called 09139939476[39m
+[32m2025-05-08T15:34:50.762Z [info]: Called 09136733789[39m
+[32m2025-05-08T15:34:50.837Z [info]: Called 09138379820[39m
+[32m2025-05-08T15:34:50.931Z [info]: Called 09132165447[39m
+[32m2025-05-08T15:34:51.011Z [info]: Called 09133235330[39m
+[32m2025-05-08T15:34:51.096Z [info]: Called 09133647677[39m
+[32m2025-05-08T15:34:51.209Z [info]: Called 09136670936[39m
+[32m2025-05-08T15:34:51.299Z [info]: Called 09133566989[39m
+[32m2025-05-08T15:34:57.190Z [info]: Called 09136151523[39m
+[32m2025-05-08T15:34:57.273Z [info]: Called 09133179045[39m
+[32m2025-05-08T15:34:57.370Z [info]: Called 09133909179[39m
+[32m2025-05-08T15:34:57.459Z [info]: Called 09135501799[39m
+[32m2025-05-08T15:34:57.529Z [info]: Called 09139982356[39m
+[32m2025-05-08T15:34:57.611Z [info]: Called 09136846969[39m
+[32m2025-05-08T15:34:57.691Z [info]: Called 09134402299[39m
+[32m2025-05-08T15:34:57.855Z [info]: Called 09136806768[39m
+[32m2025-05-08T15:34:57.931Z [info]: Called 09134171333[39m
+[32m2025-05-08T15:34:57.950Z [info]: Webhook sent: batch_sent[39m
+[32m2025-05-08T15:34:57.956Z [info]: Webhook sent: campaign_completed[39m
+[32m2025-05-08T15:35:47.896Z [info]: Updated status for transaction 298a3394-bbb1-424b-88d5-ec79e3248034 to Pending[39m
+[32m2025-05-08T15:35:47.973Z [info]: Updated status for transaction 53614e0a-8399-4deb-9fc4-9bf00e6b4ea8 to Pending[39m
+[32m2025-05-08T15:35:48.052Z [info]: Updated status for transaction 70c7ea86-8dd5-4bbc-8aa2-587104244577 to Pending[39m
+[32m2025-05-08T15:35:48.132Z [info]: Updated status for transaction d8933d71-013d-4fb1-9016-938fb2f60978 to Pending[39m
+[32m2025-05-08T15:35:48.212Z [info]: Updated status for transaction 437fcad2-0575-48bc-9fcb-88c293e51cdd to Pending[39m
+[32m2025-05-08T15:35:48.292Z [info]: Updated status for transaction ace5a144-1447-4292-8c87-17c01c95ced3 to Pending[39m
+[32m2025-05-08T15:35:48.379Z [info]: Updated status for transaction 5042b600-5aa7-4f59-994a-df30fba59e0b to Pending[39m
+[32m2025-05-08T15:35:48.452Z [info]: Updated status for transaction 3e2d1245-6d27-4706-a28f-8285794270ab to Pending[39m
+[32m2025-05-08T15:35:48.532Z [info]: Updated status for transaction 264a38a3-ee1e-4fc5-860d-f100e5e1d24a to Pending[39m
+[32m2025-05-08T15:35:48.612Z [info]: Updated status for transaction de8680a8-6d38-4a9c-b301-7b3403aa2d18 to Pending[39m
+[32m2025-05-08T15:35:48.692Z [info]: Updated status for transaction 72387cce-6dfe-4ea6-8f16-e14383d318c5 to Pending[39m
+[32m2025-05-08T15:35:48.771Z [info]: Updated status for transaction 278ca736-1a58-4416-91bd-557f9a504bf8 to Pending[39m
+[32m2025-05-08T15:35:48.852Z [info]: Updated status for transaction aa9cc187-1ac1-4850-ad85-5335437ced7c to Pending[39m
+[32m2025-05-08T15:35:48.971Z [info]: Updated status for transaction a766bcb5-4cc5-4644-8fad-0c2fc51a2357 to Pending[39m
+[32m2025-05-08T15:35:49.038Z [info]: Updated status for transaction 6f935618-c9b1-477f-ae41-96a549e58056 to Pending[39m
+[32m2025-05-08T15:35:49.135Z [info]: Updated status for transaction 67e37dd3-28dd-42ad-a858-5de11407502a to Pending[39m
+[32m2025-05-08T15:35:49.211Z [info]: Updated status for transaction 18c6a337-fe56-4667-8753-aab145c2b372 to Pending[39m
+[32m2025-05-08T15:35:49.292Z [info]: Updated status for transaction 6fbd3de3-1cc6-4549-91e9-3c4dbc339234 to Pending[39m
+[32m2025-05-08T15:35:49.373Z [info]: Updated status for transaction 2119ffd4-5af6-45d3-9cee-9a539a690946 to Pending[39m
+[32m2025-05-08T15:35:49.453Z [info]: Updated status for transaction 5ef49770-673c-4663-a5ef-00fce2f8aa66 to Pending[39m
+[32m2025-05-08T15:35:56.802Z [info]: Updated status for transaction e1d0e4ab-a66a-47f2-be48-9d187096b90d to Pending[39m
+[32m2025-05-08T15:35:56.897Z [info]: Updated status for transaction c6f66554-0f3d-4350-ad8c-c45dcdfd7393 to Pending[39m
+[32m2025-05-08T15:35:56.972Z [info]: Updated status for transaction cb2a866d-ae6b-45a5-af82-dc7881cd8c34 to Pending[39m
+[32m2025-05-08T15:35:57.079Z [info]: Updated status for transaction 3dc2fb57-9191-4b6f-b944-cbd5f51160f5 to Pending[39m
+[32m2025-05-08T15:35:57.632Z [info]: Updated status for transaction 76cb38f2-af47-40b5-bacf-22614ce4107f to Pending[39m
+[32m2025-05-08T15:35:58.584Z [info]: Updated status for transaction e0262f58-abb2-4de0-8ff5-2ddfb1d14d54 to Pending[39m
+[32m2025-05-08T15:35:58.653Z [info]: Updated status for transaction 6d2ef302-d399-468b-9fda-8a7fc8d4c43e to Pending[39m
+[32m2025-05-08T15:35:58.728Z [info]: Updated status for transaction 020f8f1a-ee06-497a-9d91-82a54e07fa03 to Pending[39m
+[32m2025-05-08T15:35:58.810Z [info]: Updated status for transaction def0e95a-802b-4b30-be59-454cbd695f6f to Pending[39m
+[32m2025-05-08T15:35:58.892Z [info]: Updated status for transaction 4f7c1910-dc5b-4c1a-9880-89e7e4caa254 to Pending[39m
+[32m2025-05-08T15:35:58.963Z [info]: Updated status for transaction e0d693e1-9130-4351-9b22-4d2c0277abcb to Pending[39m
+[32m2025-05-08T15:35:59.041Z [info]: Updated status for transaction c12718d9-6731-4720-a9fd-7765a3338d8f to Pending[39m
+[32m2025-05-08T15:35:59.133Z [info]: Updated status for transaction e528c22e-fa3c-4af0-bfa9-bc82da749513 to Pending[39m
+[32m2025-05-08T15:35:59.321Z [info]: Updated status for transaction 00c3f287-4199-4ade-9d9d-f6cf18498a07 to Pending[39m
+[32m2025-05-08T15:35:59.411Z [info]: Updated status for transaction 91e5302c-476a-4bdd-9a90-0c29203af6a8 to Pending[39m
+[32m2025-05-08T15:35:59.506Z [info]: Updated status for transaction 8a945b03-e81b-4fb1-8aee-c94622d08e26 to Pending[39m
+[32m2025-05-08T15:35:59.579Z [info]: Updated status for transaction 698dc852-fc09-4858-8c1a-fdcef0fda98e to Pending[39m
+[32m2025-05-08T15:35:59.653Z [info]: Updated status for transaction d68dd7c8-00ef-430b-9585-3639b8c98722 to Pending[39m
+[32m2025-05-08T15:35:59.732Z [info]: Updated status for transaction 4f6531bc-dbd9-4705-8f0c-a2dd14103aff to Pending[39m
+[32m2025-05-08T15:35:59.812Z [info]: Updated status for transaction bad7e94b-64be-4fbd-9a24-706cc838605e to Pending[39m
+[32m2025-05-08T15:37:47.788Z [info]: Updated status for transaction 8fb8c69b-ed23-4c7c-8db1-13095e10c206 to Pending[39m
+[32m2025-05-08T15:37:47.889Z [info]: Updated status for transaction ee2c2e96-1f5c-4390-a84b-066d48d992ce to Pending[39m
+[32m2025-05-08T15:37:48.054Z [info]: Updated status for transaction 99c07d31-2e68-45da-9a5e-03dc5d606a62 to Pending[39m
+[32m2025-05-08T15:37:48.130Z [info]: Updated status for transaction 0970294f-42cb-4cfc-9c2a-c5e426c3fd0f to Pending[39m
+[32m2025-05-08T15:37:48.211Z [info]: Updated status for transaction c51027d3-0283-4d98-866b-7c499e5d691c to Pending[39m
+[32m2025-05-08T15:37:48.290Z [info]: Updated status for transaction 0649d1a7-77f6-4c2d-8332-477c74671ac9 to Pending[39m
+[32m2025-05-08T15:37:48.370Z [info]: Updated status for transaction 2161d165-0d46-4c19-bd3f-88362267f6d2 to Pending[39m
+[32m2025-05-08T15:37:48.452Z [info]: Updated status for transaction dea7247f-e454-4600-8c96-def09a816560 to Pending[39m
+[32m2025-05-08T15:37:48.530Z [info]: Updated status for transaction 05325843-5301-4bdd-b61f-ec00ef7f8bc8 to Pending[39m
+[32m2025-05-08T15:37:48.609Z [info]: Updated status for transaction a62d764f-b8f3-4d0b-b099-cbcd24ce21fc to Pending[39m
+[32m2025-05-08T15:37:48.690Z [info]: Updated status for transaction 1281e7a8-6a00-4110-a24b-7b8fd2432208 to Pending[39m
+[32m2025-05-08T15:37:48.778Z [info]: Updated status for transaction 19fd8506-9f1e-4734-9aff-505160e28984 to Pending[39m
+[32m2025-05-08T15:37:48.858Z [info]: Updated status for transaction adb1c8e1-eb56-4141-81fa-d8ea158e5117 to Pending[39m
+[32m2025-05-08T15:37:48.931Z [info]: Updated status for transaction a4698f7a-3158-4f48-a3d2-3d02455fd003 to Pending[39m
+[32m2025-05-08T15:37:49.081Z [info]: Updated status for transaction e9b3adae-f332-425d-97fc-104ee7b90fb3 to Pending[39m
+[32m2025-05-08T15:37:49.145Z [info]: Updated status for transaction 5a3a1066-3224-4f27-b468-154d8047cb25 to Pending[39m
+[32m2025-05-08T15:37:49.212Z [info]: Updated status for transaction 317a6c4c-3bf9-4de0-8d44-32a978dfdb82 to Pending[39m
+[32m2025-05-08T15:37:49.374Z [info]: Updated status for transaction f68ae968-6e96-4983-b8f6-0f79a3c25852 to Pending[39m
+[32m2025-05-08T15:37:49.454Z [info]: Updated status for transaction 907a94db-1bf3-4514-87d3-110dc11e0a18 to Pending[39m
+[32m2025-05-08T15:37:49.530Z [info]: Updated status for transaction df18ee3d-68a6-44b6-8ac6-720756905701 to Pending[39m
+[32m2025-05-08T15:37:56.610Z [info]: Updated status for transaction 3ef4c43f-75c7-4fbe-b7f2-8e71169e6483 to Pending[39m
+[32m2025-05-08T15:37:56.699Z [info]: Updated status for transaction 58242d0c-74ae-4cc4-8a81-a9fa3a9ea566 to Pending[39m
+[32m2025-05-08T15:37:56.782Z [info]: Updated status for transaction 62b49080-097a-425f-8573-544b7313479d to Pending[39m
+[32m2025-05-08T15:37:56.850Z [info]: Updated status for transaction 94a340f9-e972-4529-a35d-05595eba8136 to Pending[39m
+[32m2025-05-08T15:37:57.014Z [info]: Updated status for transaction b026b214-0cb0-43d4-b8d2-c77cc599f289 to Pending[39m
+[32m2025-05-08T15:37:57.077Z [info]: Updated status for transaction 7d84a9b4-2f9b-49c8-98ad-8357967f87cc to Pending[39m
+[32m2025-05-08T15:37:57.141Z [info]: Updated status for transaction c270b0c6-511c-4535-8914-6a1344b9f130 to Pending[39m
+[32m2025-05-08T15:37:57.223Z [info]: Updated status for transaction c51f0e4d-484f-4c02-b670-04454e7cb918 to Pending[39m
+[32m2025-05-08T15:37:57.298Z [info]: Updated status for transaction 46a3341e-046f-4f6f-ba12-1752473ea6c3 to Pending[39m
+[32m2025-05-08T15:37:57.377Z [info]: Updated status for transaction cf2764e4-65b7-46dc-8315-f44c0498acb2 to Pending[39m
+[32m2025-05-08T15:37:57.450Z [info]: Updated status for transaction a8de497f-7ffc-4280-8e5a-fccf55364112 to Pending[39m
+[32m2025-05-08T15:37:57.547Z [info]: Updated status for transaction 9f2c85ad-9d9e-4c3e-8992-c90e7c0f0ca3 to Pending[39m
+[32m2025-05-08T15:37:57.666Z [info]: Updated status for transaction 8da90c1a-fe63-47f1-993b-c63d7267d04c to Pending[39m
+[32m2025-05-08T15:37:57.756Z [info]: Updated status for transaction 4889a37d-e7a0-421e-a3c3-660a64d99918 to Pending[39m
+[32m2025-05-08T15:37:57.834Z [info]: Updated status for transaction d79d4dbc-2e5c-4204-9caf-316d1e919a6f to Pending[39m
+[32m2025-05-08T15:37:57.906Z [info]: Updated status for transaction 9428b215-5865-4db7-8a65-0c435db64dda to Pending[39m
+[32m2025-05-08T15:37:57.981Z [info]: Updated status for transaction 2ceb2965-2752-4232-abfb-d4f35cfe3069 to Pending[39m
+[32m2025-05-08T15:37:58.051Z [info]: Updated status for transaction 0ce1ab88-11fa-43af-a1de-15bc7046ea13 to Pending[39m
+[32m2025-05-08T15:37:58.131Z [info]: Updated status for transaction acb4aa6c-ae70-4766-a56d-f7c13a907b41 to Pending[39m
+[32m2025-05-08T15:37:58.254Z [info]: Updated status for transaction 6b9a435c-c0b3-4639-8a8c-029399326cd7 to Pending[39m
+[32m2025-05-08T15:39:48.006Z [info]: Updated status for transaction 34e26dbe-76f2-49f0-9625-c4b82b87c3ee to Pending[39m
+[32m2025-05-08T15:39:48.105Z [info]: Updated status for transaction 2d37cdbd-a412-4a07-98e6-a3bb76f51fbf to Pending[39m
+[32m2025-05-08T15:39:48.175Z [info]: Updated status for transaction bbf32388-7ad7-4a5d-9fca-92d6f1bbf62e to Pending[39m
+[32m2025-05-08T15:39:48.260Z [info]: Updated status for transaction 649f1ddc-eb79-41f3-a574-b89bc6082adf to Pending[39m
+[32m2025-05-08T15:39:48.378Z [info]: Updated status for transaction 36196b75-44eb-44d2-8b43-2d762fb26b69 to Pending[39m
+[32m2025-05-08T15:39:48.464Z [info]: Updated status for transaction c7eea67e-8192-481f-b572-b408144f05df to Pending[39m
+[32m2025-05-08T15:39:48.564Z [info]: Updated status for transaction 738beca4-baef-41c7-bf14-fcb8c49bfcbf to Pending[39m
+[32m2025-05-08T15:39:48.655Z [info]: Updated status for transaction 1c2632db-a2e0-48e4-9037-cb53de0a007e to Pending[39m
+[32m2025-05-08T15:39:48.729Z [info]: Updated status for transaction 5e45f369-c7b7-409b-b6b2-f5b271e52f9a to Pending[39m
+[32m2025-05-08T15:39:48.866Z [info]: Updated status for transaction 0379f13b-c638-4515-8ff2-4e1fbef9b0cb to Pending[39m
+[32m2025-05-08T15:39:48.937Z [info]: Updated status for transaction b95d2534-3b42-488f-857b-289bf68afd43 to Pending[39m
+[32m2025-05-08T15:39:49.013Z [info]: Updated status for transaction a7d31397-f9e1-4e74-9a90-4ecffab0dd4f to Pending[39m
+[32m2025-05-08T15:39:49.095Z [info]: Updated status for transaction cbadbb06-b475-430a-a8dd-df2432fe1de7 to Pending[39m
+[32m2025-05-08T15:39:49.181Z [info]: Updated status for transaction a1f50299-eec8-493b-ad98-db0996b8f59d to Pending[39m
+[32m2025-05-08T15:39:49.256Z [info]: Updated status for transaction 9d5bfbc0-7854-4e20-bfca-95b840e7bd71 to Pending[39m
+[32m2025-05-08T15:39:49.334Z [info]: Updated status for transaction b8a3e9d4-c6d4-4839-ad40-a3fb19702bf6 to Pending[39m
+[32m2025-05-08T15:39:49.404Z [info]: Updated status for transaction 70daf00b-c297-4981-a522-7695475843e5 to Pending[39m
+[32m2025-05-08T15:39:49.512Z [info]: Updated status for transaction 0387c58a-3896-44ba-a8b1-f5657b202146 to Pending[39m
+[32m2025-05-08T15:39:49.615Z [info]: Updated status for transaction fb980784-bf85-4fe3-ab53-5f6517728f00 to Pending[39m
+[32m2025-05-08T15:39:49.689Z [info]: Updated status for transaction 236d8946-a9ba-4cd3-9939-896e218741e6 to Pending[39m
+[32m2025-05-08T15:39:56.748Z [info]: Updated status for transaction 5863dfc0-6dd1-4ab5-b0a8-2bf65a1549c8 to Pending[39m
+[32m2025-05-08T15:39:56.814Z [info]: Updated status for transaction 1bf0c5f9-263c-41f0-9bf5-906de703e2fd to Pending[39m
+[32m2025-05-08T15:39:56.894Z [info]: Updated status for transaction dd1d5d37-1a36-4a56-a915-3063968d7ad0 to Pending[39m
+[32m2025-05-08T15:39:56.974Z [info]: Updated status for transaction 4190129c-e07b-4088-a3c1-68c0ba3e0154 to Pending[39m
+[32m2025-05-08T15:39:57.046Z [info]: Updated status for transaction d8abfd2b-799f-473e-8889-5d9d86c4fa4a to Pending[39m
+[32m2025-05-08T15:39:57.140Z [info]: Updated status for transaction df226753-c38b-4b43-b79e-d387e661dfa9 to Pending[39m
+[32m2025-05-08T15:39:57.214Z [info]: Updated status for transaction a4276a32-350e-43d5-af4c-582cf7a114f7 to Pending[39m
+[32m2025-05-08T15:39:57.334Z [info]: Updated status for transaction 60a8fd4f-e0cd-45d1-9f64-9502063a83ec to Pending[39m
+[32m2025-05-08T15:39:57.421Z [info]: Updated status for transaction ee44ac3d-684a-4879-ad28-856ff61f680f to Pending[39m
+[32m2025-05-08T15:39:57.498Z [info]: Updated status for transaction 4504b0f1-4186-494f-a786-9aa601b65910 to Pending[39m
+[32m2025-05-08T15:39:57.575Z [info]: Updated status for transaction 4c6f1757-6e78-4d76-bac1-8edd5ed6148c to Pending[39m
+[32m2025-05-08T15:40:03.392Z [info]: Updated status for transaction c7e7d017-2cec-4a4d-9574-c721c1d09281 to Pending[39m
+[32m2025-05-08T15:40:03.463Z [info]: Updated status for transaction d21229dd-3075-4bfc-b708-3a9816974679 to Pending[39m
+[32m2025-05-08T15:40:03.534Z [info]: Updated status for transaction a36b8c74-75af-4270-a564-d6b4fcfbc112 to Pending[39m
+[32m2025-05-08T15:40:03.624Z [info]: Updated status for transaction 0c6a40ee-7586-498e-891c-1065ce503e42 to Pending[39m
+[32m2025-05-08T15:40:03.734Z [info]: Updated status for transaction 4a1f9ba8-e526-46a1-9f66-0f9b57e5d724 to Pending[39m
+[32m2025-05-08T15:40:03.814Z [info]: Updated status for transaction bbe0b70e-9532-48fd-8124-bb2c784ee776 to Pending[39m
+[32m2025-05-08T15:40:03.894Z [info]: Updated status for transaction 18b07765-ac0b-415f-8d06-3cb20513aa11 to Pending[39m
+[32m2025-05-08T15:40:03.967Z [info]: Updated status for transaction 164c457e-d399-4f3a-a01b-a6bce00dfa5c to Pending[39m
+[32m2025-05-08T15:40:04.054Z [info]: Updated status for transaction 1efbb0ec-30bd-41b2-b306-e212948994e7 to Pending[39m
