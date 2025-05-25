@@ -6,7 +6,6 @@ Welcome to a robust, scalable Campaign Messaging Platform designed for reliable 
 
 - **Massive Throughput**: Push 10k+ messages/sec (and scale further!)
 - **Robust Reliability**: 99.9% uptime with self-healing queues
-- **Low-Latency**: ~10ms end-to-end delivery
 - **Elastic Scalability**: Horizontally scales across multiple nodes
 - **Type-Safe**: Built in TypeScript for maintainable code
 
