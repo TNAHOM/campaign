@@ -55,26 +55,3 @@ Welcome to a robust, scalable Campaign Messaging Platform designed for reliable 
    ```
    This command will start the webhook service for real-time message processing.
 
-## 💡 Tips & Tricks
-
-- Enable **WASM acceleration** for Drizzle queries:
-  ```ts
-  // drizzle.config.ts
-  export default {
-    db: {
-      client: "postgresql",
-      wasmAccelerator: true,
-      // ...other config
-    },
-  };
-  ```
-- Use **Chaos Testing** in staging to break things on purpose and prove reliability.
-
-## 📈 Metrics at a Glance
-
-- Messages processed: **50M+** per day
-- Peak CPU utilization: **20%**
-- Average memory usage: **200MB**
-- Recovery time: **<500ms** after node failure
-
----
